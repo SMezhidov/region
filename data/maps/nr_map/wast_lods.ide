@@ -1,0 +1,65 @@
+objs
+8408, lod_nr_milu1,  nr_wast_lod, 600,0
+8409, lod_nr_wast_48, nr_wast_lod, 600,0
+8410, lod_nr_wast_47, nr_wast_lod, 600,0
+8411, lod_nr_wast_46, nr_wast_lod, 600,0
+8412, lod_nr_wast_45, nr_wast_lod, 600,0
+8413, lod_nr_wast_44, nr_wast_lod, 600,0
+8414, lod_nr_wast_43, nr_wast_lod, 600,0
+8415, lod_nr_wast_42, nr_wast_lod, 600,0
+8416, lod_nr_wast_41, nr_wast_lod, 600,0
+8417, lod_nr_wast_40, nr_wast_lod, 600,0
+8418, lod_nr_wast_39, nr_wast_lod, 600,0
+8419, lod_nr_wast_38, nr_wast_lod, 600,0
+8420, lod_nr_wast_37, nr_wast_lod, 600,0
+8421, lod_nr_wast_36, nr_wast_lod, 600,0
+8422, lod_nr_wast_27, nr_wast_lod, 600,0
+8423, lod_nr_wast_26, nr_wast_lod, 600,0
+8424, lod_nr_wast_25, nr_wast_lod, 600,0
+8425, lod_nr_wast_24, nr_wast_lod, 600,0
+8426, lod_nr_wast_23, nr_wast_lod, 600,0
+8427, lod_nr_wast_20, nr_wast_lod, 600,0
+8429, lod_nr_wast_18, nr_wast_lod, 600,0
+8430, lod_nr_wast_21, nr_wast_lod, 600,0
+8431, lod_nr_wast_22, nr_wast_lod, 600,0
+8432, lod_nr_wast_17, nr_wast_lod, 600,0
+8433, lod_nr_wast_14, nr_wast_lod, 600,0
+8434, lod_nr_wast_13, nr_wast_lod, 600,0
+8435, lod_nr_wast_12, nr_wast_lod, 600,0
+8436, lodwast_11, nr_wast_lod, 600,0
+8437, lod_nr_wast_16, nr_wast_lod, 600,0
+8438, lod_nr_wast_15, nr_wast_lod, 600,0
+8439, lod_nr_wast_35, nr_wast_lod, 600,0
+8440, lod_nr_wast_34, nr_wast_lod, 600,0
+8441, lod_nr_wast_49, nr_wast_lod, 600,0
+8442, lod_nr_wast_33, nr_wast_lod, 600,0
+8443, lod_nr_wast_31, nr_wast_lod, 600,0
+8444, lod_nr_wast_30, nr_wast_lod, 600,0
+8445, lod_nr_wast_29, nr_wast_lod, 600,0
+8446, lod_nr_wast_28, nr_wast_lod, 600,0
+8447, lod_nr_wast_09, nr_wast_lod, 600,0
+8448, lod_nr_wast_10, nr_wast_lod, 600,0
+8449, lod_nr_wast_08, nr_wast_lod, 600,0
+8450, lod_nr_wast_07, nr_wast_lod, 600,0
+8451, lod_nr_wast_06, nr_wast_lod, 600,0
+8452, lod_nr_wast_05, nr_wast_lod, 600,0
+8453, lod_nr_wast_04, nr_wast_lod, 600,0
+8454, lod_nr_wast_03, nr_wast_lod, 600,0
+8455, lod_nr_wast_02, nr_wast_lod, 600,0
+8456, lod_nr_wast_01, nr_wast_lod, 600,0
+8457, lod_nr_wast_32, nr_wast_lod, 600,0
+8458, lod_nr_milu2, nr_wast_lod,     600,0
+8459, lod_nr_wast_01_1, nr_wast_lod, 600,0
+8460, lod_nr_wast_04_1, nr_wast_lod, 600,0
+8461, lod_nr_wast_08_1, nr_wast_lod, 600,0
+8462, lod_nr_wast_17_1, nr_wast_lod, 600,0
+8463, lod_nr_wast_27_1, nr_wast_lod, 600,0
+8464, lod_nr_wast_most, nr_wast_lod, 600,0
+
+
+end
+tobj
+end
+2dfx
+end
+

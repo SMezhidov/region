@@ -1,0 +1,426 @@
+#Item Definition File created by MapEditor
+objs
+19300, vkm_int01, vkm_int, 150,0
+19305, vkm_int02, vkm_int, 150,0
+19306, vkm_int03, vkm_int, 150,0
+19307, vkm_int04, vkm_int, 150,0
+19308, vkm_int05, vkm_int, 150,0
+19309, vkm_int06, vkm_int, 150,0
+19310, vkm_int07, vkm_int, 150,0
+19311, vkm_int08, vkm_int, 150,0
+19314, vkm_int09, vkm_int, 150,0
+19317, vkm_int10, vkm_int, 150,0
+19318, vkm_int11, vkm_int, 150,0
+19319, vkm_int12, vkm_int, 150,0
+19326, vkm_int13, vkm_int, 150,0
+19327, vkm_int015, vkm_int, 150,0
+19328, kazin01, kazin, 150,0
+19329, kazin02, kazin, 150,0
+19330, kazin03, kazin, 150,0
+19331, kazin04, kazin, 150,0
+19344, kazin05, kazin, 150,0
+19345, kazin06, kazin, 150,0
+19346, kazin07, kazin, 150,0
+19347, kazin08, kazin, 150,0
+19348, kazin09, kazin, 150,0
+19349, kazin10, kazin, 150,0
+19350, kazin11, kazin, 150,0
+19351, kazin12, kazin, 150,0
+19352, kazin13, kazin, 150,0
+19418, kazin14, kazin, 150,0
+19419, kazin15, kazin, 150,0
+19420, kazin16, kazin, 150,0
+19421, kazin17, kazin, 150,0
+19422, kazin18, kazin, 150,0
+19423, kazin19, kazin, 150,0
+19424, kazin20, kazin, 150,0
+19468, kazin21, kazin, 150,0
+19469, m_in_obj01, mer_int_obj, 150,0
+19472, m_in_obj02, mer_int_obj, 150,0
+19473, m_in_obj03, mer_int_obj, 150,0
+19475, m_in_obj04, mer_int_obj, 150,0
+19476, m_in_obj05, mer_int_obj, 150,0
+19477, m_in_obj06, mer_int_obj, 150,0
+19478, m_in_obj07, mer_int_obj, 150,0
+19479, m_in_obj08, mer_int_obj, 150,0
+19480, m_in_obj09, mer_int_obj, 150,0
+19481, m_in_obj10, mer_int_obj, 150,0
+19482, m_in_obj11, mer_int_obj, 150,0
+19483, m_in_obj12, mer_int_obj, 150,0
+19487, m_in_obj13, mer_int_obj, 150,0
+19488, m_in_obj14, mer_int_obj, 150,0
+19513, m_in_obj15, mer_int_obj, 150,0
+19514, m_in_obj16, mer_int_obj, 150,0
+19515, m_in_obj17, mer_int_obj, 150,0
+19516, m_in_obj18, mer_int_obj, 150,0
+19517, m_in_obj19, mer_int_obj, 150,0
+19518, m_in_obj20, mer_int_obj, 150,0
+19519, m_in_obj21, mer_int_obj, 150,0
+19520, m_in_obj22, mer_int_obj, 150,0
+19521, mer_int01, mer_int, 150,0
+19528, mer_int02, mer_int, 150,0
+19553, mer_int03, mer_int, 150,0
+19554, mer_int04, mer_int, 150,0
+19555, mer_int05, mer_int, 150,0
+19556, mer_int06, mer_int, 150,0
+19557, mer_int07, mer_int, 150,0
+19558, mer_int08, mer_int, 150,0
+19559, mer_int09, mer_int, 150,0
+19560, mer_int10, mer_int, 150,0
+19561, mer_int11, mer_int, 150,0
+19562, mer_int12, mer_int, 150,0
+19563, mer_int13, mer_int, 150,0
+19564, mer_int14, mer_int, 150,0
+19565, mer_int15, mer_int, 150,0
+19566, mer_int16, mer_int, 150,0
+19567, mer_int17, mer_int, 150,0
+19568, mer_int18, mer_int, 150,0
+19569, mer_int19, mer_int, 150,0
+19570, mer_int20, mer_int, 150,0
+19571, mer_int21, mer_int, 150,0
+19572, mer_int22, mer_int, 150,0
+19573, mer_int23, mer_int, 150,0
+19574, mer_int24, mer_int, 150,0
+19575, mer_int25, mer_int, 150,0
+19576, mer_int26, mer_int, 150,0
+19577, mer_int27, mer_int, 150,0
+19578, mer_int28, mer_int, 150,0
+19579, patrul01, patrul_int, 150,0
+19580, patrul02, patrul_int, 150,0
+19581, patrul03, patrul_int, 150,0
+19582, patrul04, patrul_int, 150,0
+19583, patrul05, patrul_int, 150,0
+19584, patrul06, patrul_int, 150,0
+19585, patrul07, patrul_int, 150,0
+19586, patrul08, patrul_int, 150,0
+19590, patrul09, patrul_int, 150,0
+19591, patrul10, patrul_int, 150,0
+19592, patrul11, patrul_int, 150,0
+19605, patrul12, patrul_int, 150,0
+19606, patrul13, patrul_int, 150,0
+19607, patrul14, patrul_int, 150, 2097284
+19610, patrul15, patrul_int, 150,0
+19611, patrul16, patrul_int, 150,0
+19612, patrul17, patrul_int, 150,0
+19613, patrul18, patrul_int, 150,0
+19614, patrul19, patrul_int, 150,0
+19615, patrul20, patrul_int, 150,0
+19616, patrul21, patrul_int, 150,0
+19617, patrul22, patrul_int, 150,0
+19620, patrul23, patrul_int, 150,0
+19621, patrul24, patrul_int, 150,0
+19622, patrul_o01, patrul_obj, 150,0
+19623, patrul_o02, patrul_obj, 150,0
+19624, patrul_o03, patrul_obj, 150,0
+19625, patrul_o04, patrul_obj, 150,0
+19626, patrul_o05, patrul_obj, 150,0
+19627, patrul_o06, patrul_obj, 150,0
+19630, patrul_o07, patrul_obj, 150,0
+19631, patrul_o08, patrul_obj, 150,0
+19773, patrul_o09, patrul_obj, 150,0
+19774, patrul_o10, patrul_obj, 150,0
+19775, patrul_o11, patrul_obj, 150,0
+19776, patrul_o12, patrul_obj, 150,0
+19777, patrul_o13, patrul_obj, 150,2138244
+19778, patrul_o14, patrul_obj, 150,0
+19779, patrul_o15, patrul_obj, 150,0
+19780, dp_inter01, dp_inter, 150,0
+19781, dp_inter02, dp_inter, 150,0
+19782, dp_inter03, dp_inter, 150,0
+19783, dp_inter04, dp_inter, 150,0
+19784, dp_inter05, dp_inter, 150,0
+19785, dp_inter06, dp_inter, 150,0
+19792, dp_inter07, dp_inter, 150,0
+19797, dp_inter08, dp_inter, 150,0
+19801, dp_inter09, dp_inter, 150, 2097284
+19803, dp_inter10, dp_inter, 150,0
+19804, dp_inter11, dp_inter, 150,0
+19806, dp_inter12, dp_inter, 150,0
+19807, dp_inter13, dp_inter, 150,0
+19813, dp_inter14, dp_inter, 150,0
+19814, dp_inter15, dp_inter, 150,0
+19818, dps_obj01, dps_int_obj, 150,0
+19819, dps_obj02, dps_int_obj, 150,0
+19836, dps_obj03, dps_int_obj, 150,0
+19837, dps_obj04, dps_int_obj, 150,0
+19838, dps_obj05, dps_int_obj, 150,0
+19839, dps_obj06, dps_int_obj, 150,0
+19840, dps_obj07, dps_int_obj, 150,0
+19841, dps_obj08, dps_int_obj, 150,0
+19842, dps_obj09, dps_int_obj, 150,0
+19882, dps_obj10, dps_int_obj, 150,0
+19883, dps_obj11, dps_int_obj, 150,0
+19895, boln_int01, boln_int, 150,0
+19896, boln_int02, boln_int, 150,0
+19897, boln_int03, boln_int, 150,0
+19898, boln_int04, boln_int, 150,0
+19904, boln_int05, boln_int, 150,0
+19914, boln_int06, boln_int, 150,0
+19920, boln_int07, boln_int, 150,0
+19942, boln_int08, boln_int, 150,0
+19945, boln_int09, boln_int, 150,0
+19946, boln_int10, boln_int, 150,0
+19947, boln_int11, boln_int, 150,0
+19993, boln_int12, boln_int, 150,0
+19995, boln_int13, boln_int, 150,0
+19998, boln_obj01, boln_int, 150,0
+19289, boln_obj02, boln_int, 150,0
+19290, boln_obj03, boln_int, 150,0
+19291, boln_obj04, boln_int, 150,0
+19292, boln_obj05, boln_int, 150,0
+19293, boln_obj06, boln_int, 150,0
+19294, boln_obj07, boln_int, 150,0
+19295, boln_obj08, boln_int, 150,0
+19296, boln_obj09, boln_int, 150,0
+19297, boln_obj10, boln_int, 150,0
+19298, boln_obj11, boln_int, 150,0
+17289, dvera, int_drs, 150,0
+17288, dverb, int_drs, 150,0
+17287, dverc, int_drs, 150,0
+17286, dvere, int_drs, 150,0
+17285, dverf, int_drs, 150,0
+17284, boln_dpdr, int_drs, 150,0
+17283, dp_dopdr, int_drs, 150,0
+17282, mer_dop, int_drs, 150,0
+17281, patr_dop, int_drs, 150,0
+18633, dp_soch1, dps_sochi, 150,0
+18634, dp_soch2, dps_sochi, 150,0
+18635, pps_soc1, pps_soc_int, 150,0
+18636, pps_soc2, pps_soc_int, 150,0
+19994, pps_soc3, pps_soc_int, 150,0
+
+18638, boln_soc1, boln_sochi, 150,0
+18639, boln_soc2, boln_sochi, 150,0
+18640, boln_soc3, boln_sochi, 150,0
+18641, boln_soc4, boln_sochi, 150,0
+
+18642, msochi_in1, msocwal_int, 150,0
+18643, msochi_in2, msocobj_int, 150,0
+18644, msochi_in3, msocobj_int, 150,0
+18645, msochi_in4, msochal_int, 150,0
+18646, msochi_in5, msochal_int, 150,0
+
+18647, soc_bank1, sochi_bank_int, 150,0
+18648, soc_bank2, sochi_bank_int, 150,0
+18649, soc_bank3, sochi_bank_int, 150,0
+
+
+
+17290, rs_villa18, vila_int_tx, 150,0
+17291, rs_villa19, vila_int_tx, 150,0
+17292, rs_villa20, vila_int_tx, 150,0
+17293, rs_villa21, vila_int_tx, 150,0
+17294, rs_villa22, vila_int_tx, 150,0
+17295, rs_villa23, vila_int_tx, 150,0
+17296, rs_villa24, vila_int_tx, 150,0
+17297, rs_villa25, vila_int_tx, 150,0
+17298, rs_villa26, vila_int_tx, 150,0
+17299, rs_villa27, vila_int_tx, 150,0
+17300, rs_villa28, vila_int_tx, 150,0
+17301, rs_villa29, vila_int_tx, 150,0
+17302, rs_villa30, vila_int_tx, 150,0
+17303, rs_villa31, vila_int_tx, 150,0
+17304, rs_villa32, vila_int_tx, 150,0
+17305, rs_villa33, vila_int_tx, 150,0
+
+1200, smpint01, smpint_tex, 80, 0
+1201, smpint02, smpint_tex, 80, 0
+1202, smpint03, smpint_tex, 80, 0
+1203, smpint04, smpint_tex, 80, 0
+1204, smpint05, hata_wall, 80, 0
+1206, smpint06, hata_obj, 80, 0
+5089, smpint07, aprobj_tx, 80, 0
+5090, smpint08, aprwall_tx, 80, 0
+
+6013, vipint_o1, vip_int_ob1, 80, 0
+6014, vipint_o2, vip_int_ob2, 80, 0
+6015, vipint_w1, vip_int_w1,  80, 0
+6016, vipint_w2, vip_int_w2,  80, 0
+8428, vipint_o11, vip_int_ob1, 100, 0
+6240, vipint_o12, vip_int_ob1, 100, 0
+
+1205, xmasext, xmastree, 200, 256
+1326, xmastreeint, xmastree, 200, 2138244
+10860, meriya99, meriya_tex, 299 , 0
+
+
+13402, cininta, cininta, 100, 0
+13403, cinintb, cinintb, 100, 0
+13404, cinintc, cinintc, 100, 0
+13405, cinintd, cinintd, 100, 0
+13406, cinintk01, cinintk, 100, 0
+13407, cinintk02, cinintk, 100, 0
+13408, cinintk03, cinintk, 100, 0
+13409, cinintk04, cinintk, 100, 0
+13410, cinintk05, cinintk, 100, 0
+13411, cinintk06, cinintk, 100, 0
+13412, cinintk07, cinintk, 100, 0
+13413, cinintk08, cinintk, 100, 0
+13414, cinintk09, cinintk, 100, 0
+13415, cinintk10, cinintk, 100, 0
+
+13416, magzint01, magazintb, 80, 0
+13417, magzint02, magazintb, 80, 0
+13418, magzint03, magazintb, 80, 0
+13419, magzint04, magazinta, 80, 0
+13420, magzint05, magazintb, 80, 0
+13421, magzint06, magazintb, 80, 0
+13422, magzint07, magazinta, 80, 0
+13423, magzint08, magazinta, 80, 0
+13424, magzint09, magazinta, 80, 0
+13425, magzint10, magazinta, 80, 0
+13426, magzint11, magazinta, 80, 0
+
+13427, tancint01, tancint, 80, 0
+13428, tancint02, tancint, 80, 0
+13429, tancint03, tancint, 80, 0
+13430, tancint04, tancint, 80, 0
+
+
+19632, turma_i1, int_turma1, 299, 0
+19633, turma_i2, int_turma2, 299, 0
+19634, turma_i3, int_turma3, 299, 0
+19635, turma_i4, int_turma4, 299, 0
+19636, turma_i5, int_turma5, 299, 0
+
+
+19637,slujebka3, int_slujebka, 299, 0
+19638,slujebka2, int_slujebka, 299, 0
+19639,slujebka1, int_slujebka, 299, 0
+
+5301, dverg,opg_int, 100,0 
+
+14275, office1, office_1, 100, 0
+14276, office2, office_1, 100, 0
+14277, ofis2a,  ofis2a, 299, 0
+14278, ofis2b1, ofis2b, 299, 0
+14279, ofis2b2, ofis2b, 299, 0
+14280, ofis2b3, ofis2b, 299, 0
+14281, ofis2c1, ofis2c, 299, 0
+14282, ofis2c2, ofis2c, 299, 0
+14283, ofis2c3, ofis2c, 299, 0
+14284, ofis2c4, ofis2c, 299, 0
+14285, ofis2c5, ofis2c, 299, 2097284
+
+14368, ofic3dr,   of3_floor,  299, 0
+14369, ofic3env,  of3_walls1, 299, 0
+14370, ofic3fl,   of3_floor,  299, 0
+14371, ofic3oa1,  of3_obj_a,  299, 0
+14372, ofic3oa2,  of3_obj_a,  299, 0
+14373, ofic3oa3,  of3_obj_a,  299, 0
+14374, ofic3oa4,  of3_obj_a,  299, 0
+14375, ofic3ob1,  of3_obj_b,  299, 0
+14376, ofic3ob2,  of3_obj_b,  299, 0
+14377, ofic3ob3,  of3_obj_b,  299, 0
+14378, ofic3ob4,  of3_obj_b,  299, 0
+14379, ofic3ob5,  of3_obj_b,  299, 0
+14380, ofic3po,   of3_poto,   299, 0
+14381, ofic3w1,   of3_walls1, 299, 0
+14382, ofic3w2,   of3_walls2, 299, 0
+14383, ofic3_win, of3_walls1, 299, 0
+
+
+14386, flat1_w2, flat1_w2, 299, 0
+14387, flat1_w1, flat1_w1, 299, 0
+14388, flat1_pp, flat1_pp, 299, 0
+14389, flat1_oe1, flat1_oe, 299, 0
+14390, flat1_od5, flat1_od, 299, 0
+14391, flat1_od4, flat1_od, 299, 0
+14392, flat1_od3, flat1_od, 299, 0
+14393, flat1_od2, flat1_od, 299, 0
+14394, flat1_od1, flat1_od, 299, 0
+14395, flat1_oc4, flat1_oc, 299, 0
+14396, flat1_oc3, flat1_oc, 299, 0
+14397, flat1_oc2, flat1_oc, 299, 0
+14398, flat1_oc1, flat1_oc, 299, 0
+14399, flat1_ob3, flat1_ob, 299, 0
+14400, flat1_ob2, flat1_ob, 299, 0
+14401, flat1_ob1, flat1_ob, 299, 0
+14402, flat1_oa5, flat1_oa, 299, 0
+14403, flat1_oa4, flat1_oa, 299, 0
+14404, flat1_oa3, flat1_oa, 299, 0
+14405, flat1_oa2, flat1_oa, 299, 0
+14406, flat1_oa1, flat1_oa, 299, 0
+14407, flat1_dre, flat1_oe, 299, 0
+14408, flat1_drd, flat1_oe, 299, 0
+14409, flat1_drc, flat1_oe, 299, 0
+14410, flat1_drb, flat1_oe, 299, 0
+14411, flat1_dra, flat1_oe, 299, 0
+14412, flat1_env, flat1_oe, 299, 0
+14413, flat1_wnd, of3_walls1, 299, 0
+
+
+14414, kvar2_dr1, flat2_oe, 299, 0
+14415, kvar2_dr2, flat2_oe, 299, 0
+14416, kvar2_dr3, flat2_oe, 299, 0
+14417, kvar2_dr4, flat2_oe, 299, 0
+14418, kvar2_env, flat2_oe, 299, 0
+14419, kvar2_oa1, flat2_oa, 299, 0
+14420, kvar2_oa2, flat2_oa, 299, 0
+14421, kvar2_oa3, flat2_oa, 299, 0
+14422, kvar2_ob1, flat2_ob, 299, 0
+14423, kvar2_ob2, flat2_ob, 299, 0
+14424, kvar2_ob3, flat2_ob, 299, 0
+14425, kvar2_ob4, flat2_ob, 299, 0
+14426, kvar2_oc1, flat2_oc, 299, 0
+14427, kvar2_oc2, flat2_oc, 299, 0
+14428, kvar2_oc3, flat2_oc, 299, 0
+14429, kvar2_oc4, flat2_oc, 299, 0
+14430, kvar2_oc5, flat2_oc, 299, 0
+14431, kvar2_od1, flat2_od, 299, 0
+14432, kvar2_od2, flat2_od, 299, 0
+14433, kvar2_od3, flat2_od, 299, 0
+14434, kvar2_oe1, flat2_oe, 299, 0
+14435, kvar2_pp,  flat2_pp, 299, 0
+14436, kvar2_w,   flat2_w,  299, 0
+
+
+14457, klan_hs01, klan_int2, 299, 0
+14458, klan_hs02, klan_int2, 299, 0
+14459, klan_hs03, klan_int2, 299, 0
+1230,  klan_hs04, klan_int1,  299, 0
+14461, klan_hs05, klan_int1,  299, 0
+14462, klan_hs06, klan_int1,  299, 0
+14463, klan_hs07, klan_int1,  299, 0
+14464, klan_hs08, klan_int2, 299, 0
+14465, klan_hs09, klan_int1,  299, 0
+14466, klan_hs10, klan_int1,  299, 0
+14467, klan_hs11, klan_int2, 299, 0
+14468, klan_hs12, klan_int2, 299, 0
+14469, klan_hs13, klan_int1,  299, 0
+
+14471, strp_c1a, strip_c1, 299, 0
+14472, strp_c1b, strip_c1, 299, 0
+14473, strp_c2a, strip_c2, 299, 0
+14474, strp_c2b, strip_c2, 299, 0
+14475, strp_c2c, strip_c2, 299, 0
+14476, strp_c3a, strip_c3, 299, 0
+14477, strp_c3b, strip_c3, 299, 0
+14478, strp_c3c, strip_c3, 299, 0
+14479, strp_c3d, strip_c3, 299, 0
+14480, strp_c4a, strip_c4, 299, 0
+14481, strp_c4b, strip_c4, 299, 0
+14482, strp_c4c, strip_c4, 299, 0
+1227,  strp_c4d, strip_c4, 299, 0
+14484, strp_c5a, strip_c5, 299, 0
+14485, strp_c5b, strip_c5, 299, 0
+14486, strp_c5c, strip_c5, 299, 0
+14487, strp_c6,  strip_c6, 299, 0
+
+
+
+
+
+
+end
+tobj
+end
+2dfx
+end
+anim
+14470, strip_t, strip, 123, 299, 0
+end
+
+
+
+

@@ -1,0 +1,232 @@
+#Item Definition File created by MapEditor
+objs
+5095, nr_pt43, nr_land, 180, 0
+5096, nr_pt17, nr_land, 180, 0
+5097, nr_pt18, nr_land, 180, 0
+5098, nr_pt20, nr_land, 180, 0
+5099, nr_pt19, nr_land, 180, 0
+5100, nr_pt33, nr_land, 180, 0
+5101, nr_pt22, nr_land, 180, 0
+5102, nr_pt42, nr_land, 180, 0
+5103, nr_pt24, nr_land, 180, 0
+5104, nr_pt23, nr_land, 180, 0
+5105, nr_pt25, nr_land, 180, 0
+5106, nr_pt26, nr_land, 180, 0
+5107, nr_pt28, nr_land, 180, 0
+5108, nr_pt29, nr_land, 180, 0
+5109, nr_pt30, nr_land, 180, 0
+5110, nr_pt41, nr_land, 180, 0
+5111, nr_pt31, nr_land, 180, 0
+5112, nr_pt13, nr_land, 180, 0
+5113, nr_pt35, nr_land, 180, 0
+5114, nr_pt32, nr_land, 180, 0
+5115, nr_pt27, nr_land, 180, 0
+5116, nr_pt40, nr_land, 180, 0
+5117, nr_pt39, nr_land, 180, 0
+5118, nr_pt38, nr_land, 180, 0
+5119, nr_pt36, nr_land, 180, 0
+5120, nr_pt37, nr_land, 180, 0
+5121, nr_pt34, nr_land, 180, 0
+5122, nr_pt14, nr_land, 180, 0
+5123, nr_pt12, nr_land, 180, 0
+5124, nr_pt11, nr_land, 180, 0
+5125, nr_pt21, nr_land, 180, 0
+5126, nr_pt16, nr_land, 180, 0
+5127, nr_pt15, nr_land, 180, 0
+5128, nr_pt9, nr_land,  180, 0
+5129, nr_pt8, nr_land,  180, 0
+5130, nr_pt7, nr_land,  180, 0
+5131, nr_pt10, nr_land, 180, 0
+5132, nr_pt6, nr_land,  180, 0
+5133, nr_pt4, nr_land,  180, 0
+5134, nr_pt5, nr_land,  180, 0
+5135, nr_pt1, nr_land,  180, 0
+5136, nr_pt2, nr_land,  180, 0
+5137, nr_pt3, nr_land,  180, 0
+5138, nr_pt19_1, nr_land, 180, 0
+5139, nr_pt14_1, nr_land, 180, 0
+5140, nr_pt21_1, lenta, 180, 0
+5145, nab_pt1, nab, 180, 0
+5146, nab_pt3, nab, 180, 0
+5147, nab_pt2, nab, 180, 0
+5152, pt_147, nr_land, 180, 0
+5220, Yajegovoril4, nr_land, 299, 0
+5221, Yajegovoril3, nr_land, 299, 0
+5222, Yajegovoril2, nr_land, 299, 0
+5223, Yajegovoril1, nr_land, 299, 0
+6008, pt34_stuff, nr_land, 180, 0
+5500, nr_milu1, nr_wast,   299, 0
+5501, nr_wast_48, nr_wast, 180, 0
+5502, nr_wast_47, nr_wast, 180, 0
+5503, nr_wast_46, nr_wast, 180, 0
+5504, nr_wast_45, nr_wast, 180, 0
+5505, nr_wast_44, nr_wast, 180, 0
+5506, nr_wast_43, nr_wast, 180, 0
+5507, nr_wast_42, nr_wast, 180, 0
+5508, nr_wast_41, nr_wast, 180, 0
+5509, nr_wast_40, nr_wast, 180, 0
+5510, nr_wast_39, nr_wast, 180, 0
+5511, nr_wast_38, nr_wast, 180, 0
+5512, nr_wast_37, nr_wast, 180, 0
+5513, nr_wast_36, nr_wast, 180, 0
+5514, nr_wast_27, nr_wast, 180, 0
+5515, nr_wast_26, nr_wast, 180, 0
+5516, nr_wast_25, nr_wast, 180, 0
+5517, nr_wast_24, nr_wast, 180, 0
+5518, nr_wast_23, nr_wast, 180, 0
+5519, nr_wast_20, nr_wast, 180, 0
+5521, nr_wast_18, nr_wast, 180, 0
+5522, nr_wast_21, nr_wast, 180, 0
+5523, nr_wast_22, nr_wast, 180, 0
+5524, nr_wast_17, nr_wast, 180, 0
+5525, nr_wast_14, nr_wast, 180, 0
+5526, nr_wast_13, nr_wast, 180, 0
+5527, nr_wast_12, nr_wast, 180, 0
+5528, nr_wast_11, nr_wast, 180, 0
+5529, nr_wast_16, nr_wast, 180, 0
+5530, nr_wast_15, nr_wast, 180, 0
+5531, nr_wast_35, nr_wast, 180, 0
+5532, nr_wast_34, nr_wast, 180, 0
+5533, nr_wast_49, nr_wast, 180, 0
+5534, nr_wast_33, nr_wast, 180, 0
+5535, nr_wast_31, nr_wast, 180, 0
+5536, nr_wast_30, nr_wast, 180, 0
+5537, nr_wast_29, nr_wast, 180, 0
+5538, nr_wast_28, nr_wast, 180, 0
+5539, nr_wast_09, nr_wast, 180, 0
+5540, nr_wast_10, nr_wast, 180, 0
+5541, nr_wast_08, nr_wast, 180, 0
+5542, nr_wast_07, nr_wast, 180, 0
+5543, nr_wast_06, nr_wast, 180, 0
+5544, nr_wast_05, nr_wast, 180, 0
+5545, nr_wast_04, nr_wast, 180, 0
+5546, nr_wast_03, nr_wast, 180, 0
+5547, nr_wast_02, nr_wast, 180, 0
+5548, nr_wast_01, nr_wast, 180, 0
+5549, nr_wast_32, nr_wast, 180, 0
+5550, nr_milu2, nr_wast, 299, 0
+5551, nr_wast_01_1, nr_wast, 180, 0
+6403, nr_wast_04_1, nr_wast, 180, 0
+6404, nr_wast_08_1, nr_wast, 180, 0
+6405, nr_wast_17_1, nr_wast, 180, 0
+6406, nr_wast_27_1, nr_wast, 180, 0
+6407, nr_wast_most, nr_wast, 180, 0
+11008, nr_wast_1b, nr_wast,  180, 0
+11009, nr_wast_1c, nr_wast,  180, 0
+11010, nr_wast_1d, nr_wast,  180, 0
+
+11011, lodwast_1b, nr_wast, 700, 0
+11012, lodwast_1c, nr_wast, 700, 0
+11013, lodwast_1d, nr_wast, 700, 0
+11014, nr_wast_99, nr_tuncentr,299,0
+
+11015, nr_pt18b, nr_land, 180, 0
+11016, nr_pt18c, nr_land, 180, 0
+11017, nr_pt18d, nr_land, 180, 0
+
+11018, lodpt18b, nr_land_lod, 700, 0
+11019, lodpt18c, nr_land_lod, 700, 0
+11020, lodpt18d, nr_land_lod, 700, 0
+
+11021, lodse_139, house_139_lod, 700,0
+11022, lodse_180, house_180_lod, 700,0
+11023, lodl_173, ebal_173_lod, 700,0
+11024, nr_wast_sh, nr_land, 299, 0
+11025, lodast_sh, nr_land_lod, 500, 0
+
+
+6408,  nr_wast_dr, nr_wast, 299, 0
+
+17584, rs_vokz10, 4_builds, 180, 0
+17585, rs_vokz11, 4_builds, 180, 0
+17586, rs_vokz12, 4_builds, 180, 0
+17587, rs_vokz13, 4_builds, 180, 0
+17588, lodvokz10, 4_builds_lod, 700, 0
+17589, lodvokz11, 4_builds_lod, 700, 0
+17590, lodvokz12, 4_builds_lod, 700, 0
+17591, lodvokz13, 4_builds_lod, 700, 0
+
+19793, nr_pt19b, nr_land, 180, 0
+19794, nr_pt19c, nr_land, 180, 0
+19795, lodpt19b, nr_land_lod, 500, 0
+19796, lodpt19c, nr_land_lod, 500, 0
+
+19905, rs_vokz14, 5_builds, 180, 0
+19906, rs_vokz15, 5_builds, 180, 0
+19907, rs_vokz16, 5_builds, 180, 0
+19908, rs_vokz17, 5_builds, 180, 0
+19909, lodvokz14, 5_builds_lod, 600, 0
+19910, lodvokz15, 5_builds_lod, 600, 0
+19911, lodvokz16, 5_builds_lod, 600, 0
+19912, lodvokz17, 5_builds_lod, 600, 0
+
+19301, rs_vokz18, 5_builds, 180, 0
+19302, rs_vokz19, 5_builds, 180, 0
+19303, lodvokz18, 5_builds_lod, 600, 0
+19304, lodvokz19, 5_builds_lod, 600, 0
+
+19808, nr_pt33b, nr_land,180, 0
+19809, nr_pt33c, nr_land,180, 0
+19810, lodpt33b, nr_land_lod,500,0
+19811, lodpt33c, nr_land_lod,500,0
+
+19529, hp_obj01, hp_obj, 180, 0
+19530, hp_obj02, hp_obj, 180, 0
+19531, hp_obj03, hp_obj, 180, 0
+19532, hp_obj04, hp_obj, 180, 0
+19533, hp_obj05, hp_obj, 180, 0
+19534, hp_obj06, hp_obj, 180, 0
+19535, hp_obj07, hp_obj, 180, 0
+19536, hp_obj08, hp_obj, 180, 0
+19537, hp_obj09, hp_obj, 180, 2097284
+19538, hp_obj10, hp_obj, 180, 0
+19539, hp_obj11, hp_obj, 180, 0
+
+19540, lodobj01, hp_obj_lod, 400, 0
+19541, lodobj02, hp_obj_lod, 400, 0
+19542, lodobj03, hp_obj_lod, 400, 0
+19543, lodobj04, hp_obj_lod, 400, 0
+19544, lodobj05, hp_obj_lod, 400, 0
+19545, lodobj06, hp_obj_lod, 400, 0
+19546, lodobj07, hp_obj_lod, 400, 0
+19547, lodobj08, hp_obj_lod, 400, 0
+19548, lodobj09, hp_obj_lod, 400, 2097284
+19549, lodobj10, hp_obj_lod, 400, 0
+19550, lodobj11, hp_obj_lod, 400, 0
+
+
+
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,582 @@
+# basicmap.ide exported from basic_sa_map_oneobj.max, on 8/2/2006 9:44:25 PM 
+objs
+6000, railstat_int, railstat_int, 299, 0
+6001, police_int, police_int, 299, 0
+6002, meriya, meriya, 299, 0
+6003, hospital_int, hospital_int, 299, 0
+6004, caineo_int, caineo_int, 299, 0
+6010, as_ar_b, as_areas, 299, 0
+6011, as_ar_l, as_areas, 299, 0
+6012, as_ar_con, as_areas, 299, 0
+2113, entrance19_int, entrance19_int, 299, 0
+2114, entrance_int, entrance_int, 299, 0
+2115, entrance9_2_int, entrance9_2_int, 299, 0
+2116, entrance10_int, entrance10_int, 299, 0
+6017, door_r, door_r, 299, 0
+6018, door_l, door_l, 299, 0
+6019, kartina_1, kartina_1, 299, 0
+6020, kartina_2, kartina_2, 299, 0
+6021, kartina_3, kartina_3, 299, 0
+6022, kartina_4, kartina_4, 299, 0
+6023, kartina_5, kartina_5, 299, 0
+6024, kartina_6, kartina_6, 299, 0
+6025, kartina_7, kartina_7, 299, 0
+6026, kartina_8, kartina_8, 299, 0
+6027, kartina_9, kartina_9, 299, 0
+6028, kartina_10, kartina_10, 299, 0
+6029, medcab, medcab, 299, 0
+6030, med_krovat, med_krovat, 299, 0
+6031, seat_pol_1, seats, 299, 0
+6032, seat_pol_2, seats, 299, 0
+6033, tv_1, tvs, 299, 0
+6034, tv_2, tvs, 299, 0
+6035, tv_3, tvs, 299, 0
+6036, tv_4, tvs, 299, 0
+6037, tv_5, tvs, 299, 0
+6038, tv_6, tvs, 299, 0
+6039, vanna_1, vanna_1, 299, 0
+6040, vanna_2, vanna_2, 299, 0
+6041, vann_3, vann_3, 299, 0
+6042, stena1, stena, 299, 0
+6043, stena2, stena, 299, 0
+6044, stena3, stena, 299, 0
+6045, stena4, stena, 299, 0
+6046, stena5, stena, 299, 0
+6047, stena6, stena, 299, 0
+6048, stena7, stena, 299, 0
+6049, stena8, stena, 299, 0
+6050, cupboard, cupboard, 299, 0
+6051, furniture, furniture, 299, 0
+6052, gurneytable, gurneytable, 299, 0
+6053, hospitalmedicalcart, hospitalmedicalcart, 299, 0
+6054, nightstand, nightstand, 299, 0
+6070, apart2, apart2, 299, 0
+6071, apart3, apart3, 299, 0
+6072, apart4, apart4, 299, 0
+6073, apart5, apart5, 299, 0
+6077, pps_int, pps_int, 299, 0
+6078, autosch_int, autosch_int, 299, 0
+6079, nr_sh_avto2, nr_sh_avto2, 299, 0
+6080, apart1, apart1, 299, 0
+6081, dps_int, dps_int, 299, 0
+6115, dps_door, dps_int, 299, 0
+6116, pps_door, dps_int, 299, 0
+6124, int_wshop, wshop, 299, 0
+6125, int_milu_caf, int_milu_caf, 299, 0
+6126, int_milu_caz, int_milu_caz, 299, 0
+6127, band1inter, band1inter, 299, 0
+6128, int_milu_hed, int_milu_hed, 299, 0
+6129, int_milu_med, int_milu_med, 299, 0
+6130, milu_Stor, milu_Stor, 299, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

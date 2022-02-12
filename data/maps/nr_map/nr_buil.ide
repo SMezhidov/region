@@ -1,0 +1,243 @@
+# basicmap.ide exported from basic_sa_map_oneobj.max, on 8/2/2006 9:44:25 PM 
+objs
+5070, railstat, railstst, 299, 0
+5071, dps, dps, 299, 0
+5072, PPS, PPS, 299, 0
+5073, hospital, hospital, 299, 0
+5074, shroomst, shroomst, 299, 0
+5075, fsbuild, fsbuild, 299, 0
+5076, phbuild, phbuild, 299, 0
+5077, elbuild, elbuild, 299, 0
+5078, elbuild2, elbuild2, 299, 0
+5079, elbrbuild, brbuild, 299, 0
+5080, elbrbuild1, brbuild2, 299, 0
+5082, brcombuild, brcombuild, 299, 0
+5083, brcombuild1, brcombuild, 299, 0
+5084, brcombuild2, brcombuild, 299, 0
+5085, autoserv, autoserv, 299, 0
+5086, comleet1, comlet, 299, 0
+5087, comleet2, comlet, 299, 0
+5088, comleet3, comlet, 299, 0
+5091, caineo, caineo, 299, 0
+5092, motel, motel, 299, 0
+5093, motel_2, motel, 299, 0
+5094, motel_3, motel, 299, 0
+5143, c_3ba, c_3b, 299, 0
+5144, c_3bl, c_3b, 299, 0
+5148, nabbench, nab, 299, 0
+5149, sh_cent, sh_cent, 299, 0
+5150, c_b2a5, c_b2a5, 299, 0
+5151, prist_a, prist_a, 299, 0
+5153, ebal_173, ebal_173, 299, 0
+5154, ebal_201, ebal_201, 299, 0
+5155, garage_1, garage_pack, 299, 0
+5156, garage_2, garage_pack, 299, 0
+5157, garage_3, garage_pack, 299, 0
+5158, garage_4, garage_pack, 299, 0
+5159, garage_5, garage_pack, 299, 0
+5160, hotel_c4d, hotel_c4d, 299, 0
+5161, hotel_elegant, hotel_elegant, 299, 0
+5162, house_187, house_187, 299, 0
+5163, house_187_a, house_187, 299, 0
+5164, cerkov_206, cerkov_206, 299, 0
+5165, ebal_000, ebal_000, 299, 0
+5166, ebal_138, ebal_138, 299, 0
+5167, ebal_140_a, ebal_140, 299, 0
+5168, ebal_140_b, ebal_140, 299, 0
+5169, ebal_144, ebal_144, 299, 0
+5170, fence01, fence01, 299, 0
+5171, fence02, fence02, 299, 0
+5172, goalleft, goalleft, 299, 0
+5173, goalrights, goalrights, 299, 0
+5174, busstop, busstop, 299, 0
+5175, busstop02, busstop02, 299, 0
+5176, fencecity, fencecity, 299, 0
+5182, cigarettestalloff, cigarettestalloff, 299, 0
+5183, cigarettestallon, cigarettestallon, 299, 0
+5184, rpbox1488, rpbox1488, 299, 0
+5185, zabor, zabor, 299, 0
+5186, avtosh, avtosh, 299, 0
+5187, ploshad, ploshad, 299, 0
+5188, dom, dom, 299, 0
+5189, enter_metro, enter_metro, 299, 0
+5190, house_01, house_01, 299, 0
+5191, busstop03, busstop03, 299, 0
+5192, busstop04, busstop04, 299, 0
+5194, hs_nr1, hs_nr1, 299, 0
+5195, hs_nr2, hs_nr2, 299, 0
+5196, h_nr_1, h_nr_1, 299, 0
+5197, h_nr_2, h_nr_2, 299, 0
+5198, h_nr_3, h_nr_3, 299, 0
+5199, mnogoet_1, mnogoet_1, 299, 0
+5200, house_120, house_120, 299, 0
+5201, house_121, house_121, 299, 0
+5202, house_132, house_132, 299, 0
+5203, house_139, house_139, 299, 0
+5204, house_145, house_145, 299, 0
+5205, house_185, house_185, 299, 0
+5206, shop_189, shop_189, 299, 0
+5207, mnogoet_2, mnogoet_2, 299, 0
+5208, mnogoet_3, mnogoet_3, 299, 0
+5209, house_180, house_180, 299, 0
+5210, Car_R_P_MBR, Car_R_P_MBR, 299, 0
+5212, lenta, lenta, 299, 0
+5213, magnit, magnit, 299, 0
+5214, tuning, tuning, 299, 0
+5218, highrise16, highrise, 299, 0
+5216, highrise16b, highrise_b, 299, 0
+5217, cityhall, cityhall, 299, 0
+5219, house_default, house_default, 299, 0
+5215, ebal_186, ebal_186, 299, 0
+5224, ebal_184, ebal_184, 299, 0
+5225, shop_147, shop_147, 299, 0
+5226, house_180_new, house_180_new, 299, 0
+5227, ostanovka, ostanovka, 299, 0
+5228, cperr, cperr, 299, 0
+5229, kazarma, kazarma, 299, 0
+5230, kazarma_int, kazarma, 299, 0
+5231, kazarma_door, kazarma, 299, 0
+5234, obshaga, voenka, 299, 0
+5235, obshaga_int, voenka, 299, 0
+5236, stolovka, voenka, 299, 0
+5237, stlolovka_int, voenka, 299, 0
+5238, banya, voenka, 299, 0
+5239, banya_int, voenka, 299, 0
+5240, zemlya, voenka, 299, 0
+5241, kpp, voenka, 299, 0
+5242, kpp_door, voenka, 299, 0
+6005, gzpr, gzpr, 299, 0
+6006, testerer, testerer, 299, 0
+6007, AutoShow, AutoShow, 299, 0
+6055, adm1, adm1, 299, 0
+6056, nr_bild1, nr_bild1, 299, 0
+6057, nr_kn_1, nr_kn_1, 299, 0
+6058, nr_sh_tc_2, nr_sh_tc_2, 299, 0
+6059, nr_tc_7, nr_tc_7, 299, 0
+6060, nr_tc_10, nr_tc_10, 299, 0
+6061, nr_tc_11, nr_tc_11, 299, 0
+6062, nr_quest_vokz, nr_quest_vokz, 299, 0
+6063, schurch, schurch, 299, 0
+6064, nr_wr_bank_1, nr_wr_bank_1, 299, 0
+6065, stadium, stadion, 299, 0
+6066, nr_qst_katch, nr_qst_katch, 299, 0
+6067, nr_office_7, nr_office_7, 299, 0
+6068, nr_teatr1, nr_teatr1, 299, 0
+6069, nr_tun_1, nr_tun_1, 299, 0
+6074, as_mers, as_mers, 299, 0
+6075, as_mers_l, as_mers, 299, 0
+6076, nr_school, nr_school, 299, 0
+6082, nr_hs_t, nr_hs, 299, 0
+6083, nr_hs_ts, nr_hs, 299, 0
+6084, nr_hs_300a, nr_hs_300, 299, 0
+6085, nr_hs_300b, nr_hs_300, 299, 0
+6086, nr_hs_300c, nr_hs_300, 299, 0
+6087, yan_panel1, yan_panel1, 299, 0
+6088, yan_pan2m, yan_panel1, 299, 0
+6089, yan_panel2, yan_panel1, 299, 0
+6090, nr_teatr2, nr_teatr2, 299, 0
+6091, urgu, urgu, 299, 0
+6092, stolb1, stolbs, 299, 0
+6093, busznak, znaki2, 299, 0
+6094, shivron_p, znaki, 299, 0
+6095, shivron_l, znaki, 299, 0
+6096, ustupi, znaki, 299, 0
+6097, zapravka, znaki, 299, 0
+6098, znak90, znaki2, 299, 0
+6099, znakpark, znaki2, 299, 0
+6100, lezhpol, nr_land, 299, 0
+6101, znlezhpol, znaki, 299, 0
+6102, l_bankomat, l_bankomat, 299, 0
+6103, autocont, autocont, 299, 0
+6104, sandbag_01, sandbags_d, 299, 0
+6105, nr_wr_mail1, nr_wr_mail1, 299, 0
+6106, nr_office1, nr_office1, 299, 0
+6107, nr_rinok2, nr_rinok2, 299, 0
+6108, palatka, palatka, 299, 0
+6109, nr_tc_5, nr_tc_5, 299, 0
+6110, nr_hs_407, nr_hs_40x, 299, 0
+6111, nr_hs_407_a, nr_hs_40x, 299, 0
+6112, nr_hs_407_b, nr_hs_40x, 299, 0
+6113, nr_hs_426, nr_hs_40x, 299, 0
+6114, nr_hs_427, nr_hs_40x, 299, 0
+6117, nr_hs_gar, nr_hs_40x, 299, 0
+6118, nr_sh_tc100, nrtc10, 299, 0
+6119, nrhs415, nr_hs_40x, 299, 0
+6220, vill_stor, vill_stor, 299, 0
+6221, nr_zbr_1_zab, nr_zbr_1_zab, 299, 0
+6222, nr_zbr_1, nr_zbr_1, 299, 0
+6223, nr_tuncentr, nr_tuncentr, 299, 0
+6224, nr_tc_10, nr_tc_10, 299, 0
+6225, nr_taxi_zab, nr_taxi_zab, 299, 0
+6226, nr_taxi, nr_taxi, 299, 0
+6227, nr_sh_439_2, nr_sh_439, 299, 0
+6228, nr_sh_101, nr_sh_101, 299, 0
+6229, nr_qst_10_zab, nr_qst_10_zab, 299, 0
+6230, nr_qst_10, nr_qst_10, 299, 0
+6231, nr_hs_438, nr_hs_438, 299, 0
+6239, ext_len, ext_len, 299, 0
+6241, band_house, band_house, 299, 0
+6242, avtosh_zab, avtosh_zab, 299, 0
+6243, 416_1, lis416, 299, 0
+6244, 416_2, lis416, 299, 0
+6245, 417_1, lis417, 299, 0
+6246, 417_2, lis417, 299, 0
+6247, 418_1, lis418, 299, 0
+6248, 418_2, lis418, 299, 0
+7045, nr_sh_440, nr_sh_440, 299, 0
+7037, 416_3, lis416, 299, 0
+6249, avokzal16, nr_sh_439, 299, 0
+19812, avokzal17, nr_sh_439, 299, 0
+6250, dram_thea, dram_thea, 299, 0
+6251, nr_qst_10_est, nr_qst_10_est, 299, 0
+6252, Gazpromneft2, Gazpromneft, 299, 0
+6253, Gazpromneft4, Gazpromneft, 299, 0
+6254, milu_angar, milu_angar, 299, 0
+6255, milu_banay, milu_banay, 299, 0
+6256, milu_kasarma, milu_kasarma, 299, 0
+6257, milu_med, milu_med, 299, 0
+6258, milu_Shtab, milu_Shtab, 299, 0
+6259, milu_Sklad, milu_Sklad, 299, 0
+6260, milu_Stolovay, milu_Stolov, 299, 0
+6261, milu_YchKorp, milu_YchKorp, 299, 0
+6262, milu_kpp, milu_kpp, 299, 0
+6280, milu_kpp_door, milu_kpp, 299, 0
+6281, milu_wall, milu_kpp, 299, 0
+6282, milu_kpp_wfenc, milu_kpp, 299, 0
+6263, Zabroshka, Zabroshka, 299, 0
+6264, vill_hst5, vill_hst5, 299, 0
+6265, vill_hst4, vill_hst4, 299, 0
+6266, vill_hst3, vill_hst3, 299, 0
+6267, vill_hst2, vill_hst2, 299, 0
+6268, PolosaP, PolosaP, 299, 0
+6269, lavochka, lavochka, 299, 0
+6270, Zabroshka, Zabroshka, 299, 0
+6271, nr_pt4hfen2, nr_fences, 299, 0
+6272, nr_pt4hfen1, nr_fences, 299, 0
+6273, nr_pt4mfen, nr_fences, 299, 0
+10999, lodtaxi, nr_taxi_lod,700,0
+11000, lodtaxi_zab,nr_taxi_lod,700,0
+
+11001, lod_pan2m,  yan_panel1_lod,  600,0
+11002, lod_panel1, yan_panel1_lod,  600,0
+11003, lod_panel2, yan_panel1_lod,  600,0
+11004, lodsh_tc_2, nr_sh_tc_2_lod,  600,0
+11005, yan_dets, yan_panel1,  299,0
+
+11006, nr_milu2b, nr_wast, 299, 0
+11007, lodmilu2b, nr_wast, 700, 0
+
+18409,noobs10,passport,80,0
+18432,lodbs10,passportlod,700,0
+
+
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end

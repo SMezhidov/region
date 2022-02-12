@@ -1,0 +1,425 @@
+#IDE file generated from Kam's GTA Map IO
+objs
+17639, pulch2_lod, pulch_lod, 500, 0
+17640, pulch1_lod, pulch_lod, 500, 0
+17641, pulch4_lod, pulch_lod, 500, 0
+17642, pulch3_lod, pulch_lod, 500, 0
+17643, pulch5_lod, pulch_lod, 500, 0
+17644, pulch6_lod, pulch_lod, 500, 0
+17633, pulch2, pulch, 200, 0
+17634, pulch1, pulch, 200, 0
+17635, pulch4, pulch, 200, 0
+17636, pulch3, pulch, 200, 0
+17637, pulch5, pulch, 200, 0
+17638, pulch6, pulch, 200, 0
+17646, OPG_int_1, opg_int, 200, 0
+17647, OPG_int_2, opg_int, 200, 0
+17645, OPG_int_3, opg_int, 200, 0
+17648, pulch14, landsh, 200, 0
+17649, pulch15, landsh, 200, 0
+17650, pulch16, landsh, 200, 0
+17651, pulch11, landsh, 200, 0
+17652, pulch7, landsh, 200, 0
+17653, pulch8, landsh, 200, 0
+17654, pulch9, landsh, 200, 0
+17655, pulch10, landsh, 200, 0
+17656, pulch12, landsh, 200, 0
+17657, pulch13, landsh, 200, 0
+17658, pulch17, landsh, 200, 0
+17659, lodch8, land_lod, 500, 0
+17660, lodch15, land_lod, 500, 0
+17661, lodch16, land_lod, 500, 0
+17662, lodch11, land_lod, 500, 0
+17663, lodch7, land_lod, 500, 0
+17664, lodch17, land_lod, 500, 0
+17665, lodch9, land_lod, 500, 0
+17666, lodch10, land_lod, 500, 0
+17667, lodch12, land_lod, 500, 0
+17668, lodch13, land_lod, 500, 0
+17669, lodch14, land_lod, 500, 0
+17670, pulch_resh, landsh, 200, 0
+17671, as_mers8, as_mers_salon, 200, 0
+17672, as_mers1, as_mers_salon, 200, 0
+17673, as_mers2, as_mers_salon, 200, 0
+17674, as_mers3, as_mers_salon, 200, 0
+17675, as_mers4, as_mers_salon, 200, 0
+17676, as_mers5, as_mers_salon, 200, 0
+17677, as_mers6, as_mers_salon, 200, 0
+17678, as_mers7, as_mers_salon, 200, 0
+17679, as_mers9, as_mers_salon, 200, 0
+17680, as_mers10, as_mers_salon, 200, 0
+17681, as_mers11, as_mers_salon, 200, 0
+17682, as_mers8_lod, as_mers_lod, 500, 0
+17683, as_mers7_lod, as_mers_lod, 500, 0
+17684, as_mers1_lod, as_mers_lod, 500, 0
+17685, as_mers9_lod, as_mers_lod, 500, 0
+17686, as_ta06, as_tayota, 200, 0
+17687, as_ta05, as_tayota, 200, 0
+17688, as_ta02, as_tayota, 200, 0
+17689, as_ta01, as_tayota, 200, 0
+17690, as_ta03, as_tayota, 200, 0
+17691, as_ta04, as_tayota, 200, 0
+17692, as_ta07, as_tayota, 200, 0
+17693, as_ta04_lod, as_tayota_lod, 500, 0
+17694, as_ta01_lod, as_tayota_lod, 500, 0
+17695, as_ta06_lod, as_tayota_lod, 500, 0
+17696, as_ta02_lod, as_tayota_lod, 500, 0
+17697, as_ta05_lod, as_tayota_lod, 500, 0
+17698, voenkom02, voenkom, 200, 0
+17699, voenkom10, voenkom, 200, 0
+17700, voenkom04, voenkom, 200, 0
+17701, voenkom15, voenkom, 200, 0
+17702, voenkom03, voenkom, 200, 0
+17539, voenkom01, voenkom, 200, 0
+17704, voenkom06, voenkom, 200, 0
+17705, voenkom07, voenkom, 200, 0
+17706, voenkom05, voenkom, 200, 0
+17707, voenkom13, voenkom, 200, 0
+17708, voenkom11, voenkom, 200, 0
+17709, voenkom12, voenkom, 200, 0
+17710, voenkom14, voenkom, 200, 0
+17711, voenkom09, voenkom, 200, 0
+17712, voenkom08, voenkom, 200, 0
+17713, lodnkom02, voenkom_lod, 500, 0
+17714, lodnkom10, voenkom_lod, 500, 0
+17715, lodnkom04, voenkom_lod, 500, 0
+17716, lodnkom06, voenkom_lod, 500, 0
+17717, lodnkom07, voenkom_lod, 500, 0
+17718, lodnkom05, voenkom_lod, 500, 0
+17719, lodnkom13, voenkom_lod, 500, 0
+17720, lodnkom11, voenkom_lod, 500, 0
+17721, lodnkom12, voenkom_lod, 500, 0
+17722, lodnkom14, voenkom_lod, 500, 0
+17723, lodnkom09, voenkom_lod, 500, 0
+17724, lodnkom08, voenkom_lod, 500, 0
+17725, noobs01, noobs, 200, 0
+17726, noobs02, noobs, 200, 0
+17727, noobs03, noobs, 200, 0
+17728, noobs04, noobs, 200, 0
+17729, noobs05, noobs, 200, 0
+17730, noobs06, noobs, 200, 0
+17731, noobs07, noobs, 200, 0
+17732, noobs08, noobs, 200, 0
+17733, noobs09, noobs, 200, 0
+17734, depo09, depo, 200, 0
+17735, depo08, depo, 200, 0
+17736, depo07, depo, 200, 0
+17737, depo10, depo, 200, 0
+17738, depo01, depo, 200, 0
+17739, depo11, depo, 200, 0
+17740, depo03, depo, 200, 0
+17583, depo04, depo, 200, 0
+17564, depo05, depo, 200, 0
+17743, depo06, depo, 200, 0
+17744, depo02, depo, 200, 0
+17745, depo3_lod, depo_lod, 500, 0
+17746, depo1_lod, depo_lod, 500, 0
+17747, depo2_lod, depo_lod, 500, 0
+17750, meriya04, meriya_tex, 200, 0
+17751, meriya01, meriya_tex, 200, 0
+17752, meriya02, meriya_tex, 200, 0
+17753, meriya03, meriya_tex, 200, 0
+17754, lodiya01, meriya_lod, 500, 0
+17755, lodiya02, meriya_lod, 500, 0
+17756, lodiya03, meriya_lod, 500, 0
+17757, lodiya04, meriya_lod, 500, 0
+17759, univer04, add_univer, 200, 0
+17760, univer03, add_univer, 200, 0
+17761, univer02, add_univer, 200, 0
+17762, univer01, add_univer, 200, 0
+17763, lodver02, add_univer_lod, 500, 0
+17764, lodver03, add_univer_lod, 500, 0
+17765, lodver04, add_univer_lod, 500, 0
+17766, u_land, nr_land, 200, 0
+17767, lodand, nr_land_lod, 500, 0
+17768, park_01, park_blya, 200, 0
+17769, park_02, park_blya, 200, 0
+17770, park_03, park_blya, 200, 0
+17771, park_04, park_blya, 200, 0
+17772, park_05, park_blya, 200, 0
+17773, park_06, park_blya, 200, 0
+17774, park_07, park_blya, 200, 0
+17775, park_08, nr_land, 200, 0
+17776, park_09, nr_land, 200, 0
+17777, park_10, park_blya, 200, 0
+17778, park_11, park_blya, 200, 0
+17779, park_12, nr_land, 200, 0
+17780, park_13, park_blya, 200, 0
+17781, park_14, nr_land, 200, 0
+17782, lodk_14, nr_land_lod, 500, 0
+17783, lodk_13, park_blya_lod, 500, 0
+17784, lodk_12, nr_land_lod, 500, 0
+17785, lodk_11, park_blya_lod, 500, 0
+17786, lodk_10, park_blya_lod, 500, 0
+17787, lodk_09, nr_land_lod, 500, 0
+17788, lodk_08, nr_land_lod, 500, 0
+17789, lodk_07, park_blya_lod, 500, 0
+17790, lodk_06, park_blya_lod, 500, 0
+17791, lodk_05, park_blya_lod, 500, 0
+17792, lodk_04, park_blya_lod, 500, 0
+17793, lodk_03, park_blya_lod, 500, 0
+17794, lodk_02, park_blya_lod, 500, 0
+17795, lodk_01, park_blya_lod, 500, 0
+17893, avokzal01, avokzal, 200, 0
+17894, avokzal02, avokzal, 200, 0
+17895, avokzal03, avokzal, 200, 0
+17896, avokzal04, avokzal, 200, 0
+17897, avokzal05, avokzal, 200, 0
+17898, avokzal06, avokzal, 200, 0
+17899, avokzal13, avokzal, 200, 0
+17900, avokzal08, avokzal, 200, 0
+17901, avokzal07, avokzal, 200, 0
+17902, avokzal09, nr_land, 200, 0
+17903, avokzal12, nr_land, 200, 0
+17904, avokzal11, nr_land, 200, 0
+17905, avokzal10, avokzal, 200, 0
+17906, lodkzal01, avokzal_lod, 500, 0
+17907, lodkzal02, avokzal_lod, 500, 0
+17908, lodkzal03, avokzal_lod, 500, 0
+17909, lodkzal04, avokzal_lod, 500, 0
+17910, lodkzal05, avokzal_lod, 500, 0
+17911, lodkzal06, avokzal_lod, 500, 0
+17912, lodkzal13, avokzal_lod, 500, 0
+17913, lodkzal08, avokzal_lod, 500, 0
+17914, lodkzal07, avokzal_lod, 500, 0
+17915, lodkzal09, nr_land_lod, 500, 0
+17916, lodkzal12, nr_land_lod, 500, 0
+17917, lodkzal11, nr_land_lod, 500, 0
+17918, lodkzal10, avokzal_lod, 500, 0
+17919, gostin07, gostin, 200, 0
+17920, gostin06, gostin, 200, 0
+17921, gostin05, gostin, 200, 0
+17922, gostin04, gostin, 200, 0
+17923, gostin03, gostin, 200, 0
+17924, gostin02, gostin, 200, 0
+17925, gostin01, gostin, 200, 0
+17926, rinoknov01, rinoknov, 200, 0
+17927, rinoknov02, rinoknov, 200, 0
+17928, lodtin07, gostin_lod, 500, 0
+17929, lodtin06, gostin_lod, 500, 0
+17930, lodtin05, gostin_lod, 500, 0
+17931, lodtin04, gostin_lod, 500, 0
+17932, lodtin03, gostin_lod, 500, 0
+17933, lodtin02, gostin_lod, 500, 0
+17934, lodtin01, gostin_lod, 500, 0
+17935, lodoknov02, rinoknov_lod, 500, 0
+17936, lodoknov01, rinoknov_lod, 500, 0
+17937, avokzal14, avokzal, 200, 0
+17938, avokzal15, avokzal, 200, 0
+17939, lodkzal14, avokzal_lod, 500, 0
+17940, lodkzal15, avokzal_lod, 500, 0
+17941, mentovka01, mentovka, 200, 0
+17942, mentovka02, mentovka, 200, 0
+17943, mentovka03, mentovka, 200, 0
+17944, lodtovka01, mentovka_lod, 500, 0
+17945, lodtovka02, mentovka_lod, 500, 0
+17946, lodtovka03, mentovka_lod, 500, 0
+17947, nabere01, nr_land, 200, 0
+17948, nabere02, nr_land, 200, 0
+17949, nabere03, nr_land, 200, 0
+17950, nabere04, nabere, 200, 0
+17951, nabere05, nabere, 200, 0
+17952, nabere06, nabere, 200, 0
+17953, nabere07, nabere, 200, 0
+17954, nabere08, nabere, 200, 0
+17955, nabere09, nabere, 200, 0
+17956, nabere10, nabere, 200, 0
+17957, nabere11, nabere, 200, 0
+17958, nabere12, nabere, 200, 0
+17959, nabere13, nabere, 200, 0
+17960, nabere14, nabere, 200, 0
+17961, nabere15, nabere, 200, 0
+17962, nabere16, nabere, 200, 0
+17963, nabere17, nabere, 200, 0
+17964, nabere18, nabere, 200, 0
+17965, nabere19, nabere, 200, 0
+17966, nabere20, nabere, 200, 0
+17967, nabere21, nabere, 200, 0
+17968, nabere22, nabere, 200, 0
+17969, nabere23, nabere, 200, 0
+17970, nabere24, nabere, 200, 0
+17971, nabere25, nabere, 200, 0
+17972, nabere26, nabere, 200, 0
+17973, nabere27, nabere, 200, 0
+17974, nabere28, nabere, 200, 0
+17975, nabere29, nabere, 200, 0
+17976, nabere30, nabere, 200, 0
+17977, nabere31, nabere2, 200, 0
+17978, nabere32, nabere2, 200, 0
+17979, nabere33, nabere2, 200, 0
+17980, nabere34, nabere2, 200, 0
+17981, nabere35, nabere, 200, 0
+17982, nabere36, nabere2, 200, 0
+17983, nabere37, nabere, 200, 0
+17984, nabere38, nabere, 200, 0
+17985, nabere39, nabere, 200, 0
+17986, nabere40, nabere, 200, 0
+17987, nabere41, nabere, 200, 0
+17988, nabere42, nr_land, 200, 0
+17989, nabere43, nr_land, 200, 0
+17990, nabere44, nr_land, 200, 0
+17991, nabere45, nr_land, 200, 0
+17992, nabere46, nr_land, 200, 0
+17993, nabere47, nr_land, 200, 0
+17994, nabere48, nr_land, 200, 0
+17995, lodere01, nr_land_lod, 500, 0
+17996, lodere02, nr_land_lod, 500, 0
+17997, lodere03, nr_land_lod, 500, 0
+17998, lodere04, nabere_lod, 500, 0
+17999, lodere05, nabere_lod, 500, 0
+18000, lodere06, nabere_lod, 500, 0
+18001, lodere07, nabere_lod, 500, 0
+18002, lodere08, nabere_lod, 500, 0
+18003, lodere09, nabere_lod, 500, 0
+18004, lodere10, nabere_lod, 500, 0
+18005, lodere11, nabere_lod, 500, 0
+18006, lodere12, nabere_lod, 500, 0
+18007, lodere13, nabere_lod, 500, 0
+18008, lodere14, nabere_lod, 500, 0
+18009, lodere15, nabere_lod, 500, 0
+18010, lodere16, nabere_lod, 500, 0
+18011, lodere17, nabere_lod, 500, 0
+18012, lodere18, nabere_lod, 500, 0
+18013, lodere19, nabere_lod, 500, 0
+18014, lodere20, nabere_lod, 500, 0
+18015, lodere21, nabere_lod, 500, 0
+18016, lodere22, nabere_lod, 500, 0
+18017, lodere23, nabere_lod, 500, 0
+18018, lodere24, nabere_lod, 500, 0
+18019, lodere25, nabere_lod, 500, 0
+18020, lodere26, nabere_lod, 500, 0
+18021, lodere27, nabere_lod, 500, 0
+18022, lodere28, nabere_lod, 500, 0
+18023, lodere29, nabere_lod, 500, 0
+18024, lodere30, nabere_lod, 500, 0
+18025, lodere31, nabere2_lod, 500, 0
+18026, lodere32, nabere2_lod, 500, 0
+18027, lodere33, nabere2_lod, 500, 0
+18028, lodere34, nabere2_lod, 500, 0
+18029, lodere35, nabere_lod, 500, 0
+18030, lodere36, nabere2_lod, 500, 0
+18031, lodere37, nabere_lod, 500, 0
+18032, lodere38, nabere_lod, 500, 0
+18033, lodere39, nabere_lod, 500, 0
+18034, lodere40, nabere_lod, 500, 0
+18035, lodere41, nabere_lod, 500, 0
+18036, lodere42, nr_land_lod, 500, 0
+18037, lodere43, nr_land_lod, 500, 0
+18038, lodere44, nr_land_lod, 500, 0
+18039, lodere45, nr_land_lod, 500, 0
+18040, lodere46, nr_land_lod, 500, 0
+18041, lodere47, nr_land_lod, 500, 0
+18042, lodere48, nr_land_lod, 500, 0
+18043, bolnica1, bolnichka, 200, 0
+18044, bolnica2, bolnichka, 200, 0
+18045, bolnica3, bolnichka, 200, 0
+18046, bolnica4, bolnichka, 200, 0
+18047, lodnica1, bolnichka_lod, 500, 0
+18048, lodnica2, bolnichka_lod, 500, 0
+18049, lodnica3, bolnichka_lod, 500, 0
+18050, lodnica4, bolnichka_lod, 500, 0
+18051, depo12, nr_land, 200, 0
+18052, depo_lod12, nr_land_lod, 200, 0
+18053, bolnica5, bolnichka, 200, 0
+18054, bolnica6, bolnichka, 200, 0
+18055, lodnica5, bolnichka_lod, 500, 0
+18056, lodnica6, bolnichka_lod, 500, 0
+18057, portNov01, portnov, 200, 0
+18058, portNov02, portnov, 200, 0
+18059, portNov03, portnov, 200, 0
+18060, portNov04, portnov, 200, 0
+18061, portNov05, portnov, 200, 0
+18062, portNov06, portnov, 200, 0
+18063, portNov07, portnov, 200, 0
+18064, portNov08, portnov, 200, 0
+18065, portNov09, portnov, 200, 0
+18066, portNov10, portnov, 200, 0
+18067, portNov11, portnov, 200, 0
+18068, portNov12, portnov, 200, 0
+18069, portNov13, portnov, 200, 0
+18070, portNov14, portnov, 200, 0
+18071, portNov15, portnov, 200, 0
+18072, portNov16, portnov, 200, 0
+18073, portNov17, portnov, 200, 0
+18074, portNov18, portnov, 200, 0
+18075, portNov19, portnov, 200, 0
+18076, portNov20, portnov, 200, 0
+18077, portNov21, portnov, 200, 0
+18078, portNov22, portnov, 200, 0
+18079, portNov23, portnov, 200, 0
+18080, portNov24, portnov, 200, 0
+18081, lodtNov01, portnov_lod, 500, 0
+18082, lodtNov02, portnov_lod, 500, 0
+18083, lodtNov03, portnov_lod, 500, 0
+18084, lodtNov04, portnov_lod, 500, 0
+18085, lodtNov05, portnov_lod, 500, 0
+18086, lodtNov06, portnov_lod, 500, 0
+18087, lodtNov07, portnov_lod, 500, 0
+18088, lodtNov08, portnov_lod, 500, 0
+18089, lodtNov09, portnov_lod, 500, 0
+18090, lodtNov10, portnov_lod, 500, 0
+18091, lodtNov11, portnov_lod, 500, 0
+18092, lodtNov12, portnov_lod, 500, 0
+18093, lodtNov13, portnov_lod, 500, 0
+18094, lodtNov14, portnov_lod, 500, 0
+18095, lodtNov15, portnov_lod, 500, 0
+18096, lodtNov16, portnov_lod, 500, 0
+18097, lodtNov17, portnov_lod, 500, 0
+18098, lodtNov18, portnov_lod, 500, 0
+18099, lodtNov19, portnov_lod, 500, 0
+18100, lodtNov20, portnov_lod, 500, 0
+18101, lodtNov21, portnov_lod, 500, 0
+18102, lodtNov22, portnov_lod, 500, 0
+18103, lodtNov23, portnov_lod, 500, 0
+18104, lodtNov24, portnov_lod, 500, 0
+5069, t_hona, t_hona, 200, 0
+5068, t_hona_lod, t_hona_lod, 500, 0
+19629, tower, tower, 299, 0
+
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+18637, mel_anim, melnica,m_an, 299, 0
+end
+txdp
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+#Item Definition File created by MapEditor
+objs
+10000, tr_sosna, derevo_tex, 110, 0
+10001, tr_kedr, derevo_tex, 110, 0
+10002, tr_elka, derevo_tex, 110, 0
+10003, tr_berza, derevo_tex, 110, 0
+10004, lod_tree4_vbig, derevo_tex_lod, 450, 2097284 
+10005, lod_v_tree6, derevo_tex_lod, 450, 0
+10006, lod_bevtree, derevo_tex_lod, 450, 0
+10007, lod_tree7_big7, derevo_tex_lod, 450, 2105476
+10008, tr_sosn2, tr_dets, 110, 0
+10009, tr_mertv, tr_dets, 110, 0
+10010, tr_kust2, tr_dets, 110, 0
+10011, tr_kust1, tr_dets, 110, 0
+10012, tr_kamn1, tr_dets, 110, 0
+10013, tr_kamn2, tr_dets, 110, 0
+10014, tr_kust3, tr_dets, 110, 0
+10015, tr_lep1, tr_dets, 110, 0
+10016, tr_lep2, tr_dets, 100, 0
+10017, lod_lep2, tr_dets_lod, 450, 0
+10018, lod_mertv, tr_dets_lod, 450, 0
+10019, lod_sosn2, tr_dets_lod, 450, 0
+10020, lod_lep1, tr_dets_lod, 450, 0
+10021, lod_treea1, tree_boak_lod, 450, 0
+10022, lod_treea3, tree_boak_lod, 450, 0
+10023, lod_treeb1, tree_boak_lod, 450, 0
+
+14384, builds1b_22, builds1b_01, 299, 0
+14385, lodlds1b_22, builds1b_01_lod, 299, 0
+1264, builds1b_23, builds1b_01, 299, 0
+
+
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+

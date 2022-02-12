@@ -1,0 +1,164 @@
+#Item Definition File created by MapEditor
+objs
+10861, lamba01, lamba_wall, 150, 0
+10862, lamba02, lamba_wall, 150, 0
+10863, lamba03, lamba_wall, 150, 0
+10864, lamba04, lamba_wall, 150, 0
+10865, lamba05, lamba_int, 150, 0
+10866, lamba06, lamba_int, 150, 0
+10867, lamba07, lamba_int, 150, 2097284
+10868, lamba08, lamba_int, 150, 0
+10869, lamba09, lamba_int, 150, 0
+10870, lamba10, lamba_int, 150, 0
+10871, lamba11, lamba_int, 150, 0
+10872, lamba12, lamba_int, 150, 0
+10873, lamba13, lamba_int, 150, 0
+10874, lamba14, lamba_int, 150, 0
+10875, lamba15, lamba_int, 150, 0
+10876, lamba16, lamba_int, 150, 0
+10877, lamba17, lamba_int, 150, 0
+10878, lamba18, lamba_int, 150, 0
+10879, lamba19, lamba_int, 150, 0
+10880, lamba20, lamba_int, 150, 0
+10881, lamba21, lamba_int, 150, 0
+10882, lamba22, lamba_int, 150, 0
+10883, lamba23, lamba_int, 150, 0
+10884, lamba24, lamba_int, 150, 0
+10885, lamba25, lamba_int, 150, 0
+10886, lamba26, lamba_int, 150, 0
+10887, lamba27, lamba_int, 150, 0
+10888, lamba28, lamba_obj,  150, 0
+10889, lamba29, lamba_obj,  150, 0
+10890, lamba30, lamba_land, 150, 0
+10891, lamba31, lamba_obj,  150, 0
+10892, lamba32, lamba_int,   150, 0
+10893, lamba33, lamba_obj,  150, 0
+10894, lamba34, lamba_obj,  150, 0
+10895, lamba35, lamba_obj,  150, 0
+10896, lamba36, lamba_int,   150, 2097284
+10897, lamba37, lamba_obj,  150, 0
+
+10898, lodba01, lamba_wall_lod, 500, 0
+10899, lodba02, lamba_wall_lod, 500, 0
+10900, lodba03, lamba_wall_lod, 500, 0
+10901, lodba04, lamba_wall_lod, 500, 0
+10902, lodba05, lamba_int_lod,  300, 0
+10903, lodba06, lamba_int_lod,  300, 0
+10904, lodba07, lamba_int_lod,  300, 0
+10905, lodba08, lamba_int_lod,  300, 0
+10906, lodba09, lamba_int_lod,  300, 0
+10907, lodba10, lamba_int_lod,  300, 0
+10908, lodba11, lamba_int_lod,  300, 0
+10909, lodba12, lamba_int_lod,  300, 0
+10910, lodba13, lamba_int_lod,  300, 0
+10911, lodba14, lamba_int_lod,  300, 0
+10912, lodba15, lamba_int_lod,  300, 0
+10913, lodba16, lamba_int_lod,  300, 0
+10914, lodba17, lamba_int_lod,  300, 0
+10915, lodba18, lamba_int_lod,  300, 0
+10916, lodba19, lamba_int_lod,  300, 0
+10917, lodba20, lamba_int_lod,  300, 0
+10918, lodba21, lamba_int_lod,  300, 0
+10919, lodba22, lamba_int_lod,  300, 0
+10920, lodba23, lamba_int_lod,  300, 0
+10921, lodba24, lamba_int_lod,  300, 0
+10922, lodba25, lamba_int_lod,  300, 0
+10923, lodba26, lamba_int_lod,  300, 0
+10924, lodba27, lamba_int_lod,  300, 0
+10925, lodba28, lamba_obj_lod,  300, 0
+10926, lodba29, lamba_obj_lod,  300, 0
+10927, lodba30, lamba_land_lod, 300, 0
+10928, lodba31, lamba_obj_lod,  300, 0
+10929, lodba32, lamba_int_lod,  300, 0
+10930, lodba33, lamba_obj_lod,  300, 0
+10931, lodba34, lamba_obj_lod,  300, 0
+10932, lodba35, lamba_obj_lod,  300, 0
+10933, lodba36, lamba_int_lod,  300, 0
+10934, lodba37, lamba_obj_lod,  300, 0
+
+10935, lad_av1, lamba_land,   150,   0
+10936, lad_av2, lada_int,     150,   0
+10937, lad_av3, lada_int,     150,   0
+
+10938, lod_av1, lamba_land_lod,     500, 0
+10939, lod_av2, lada_int_lod,   500, 0
+10940, lod_av3, lada_int_lod,   500, 0	             
+
+10941, lad_av4, lamba_land,     299,0
+10942, lod_av4, lamba_land_lod, 500, 0
+
+10943, lad_av5, auction,     200,0
+10944, lod_av5, auction_lod, 500, 0
+
+10945, lad_av6, uchebka,   299,0
+10946, lad_av7, uchebka,   299,0
+
+10947, lod_av6, uchebka_lod,   500, 0
+10948, lod_av7, uchebka_lod,   500, 0
+
+10949, lad_av8, spec_trans , 150,0
+10950, lad_av9, spec_trans, 150,0
+10951, lad_av10, spec_trans, 150, 0
+
+10952, lod_av8, spec_trans_lod , 500, 0
+10953, lod_av9, spec_trans_lod, 500, 0
+10954, lod_av10, spec_trans_lod, 700, 0
+
+10955, lad_av11, bu_rinok, 150,0
+10956, lad_av12, bu_rinok, 150, 0
+10957, lod_av11, bu_rinok_lod, 500, 0
+10958, lod_av12, bu_rinok_lod, 700, 0
+
+10959, airportn01, airport_novo, 180, 0
+10960, airportn02, airport_novo, 180, 0
+10961, airportn03, airport_novo, 180, 0
+10962, airportn04, airport_novo, 180, 0
+10963, airportn05, airport_novo, 180, 0
+10964, airportn06, airport_novo, 180, 0
+10965, airportn07, airport_novo, 180, 0
+10966, airportn08, airport_novo, 180, 0
+10967, airportn09, airport_novo, 180, 0
+10968, airportn10, airport_novo, 180, 0
+10969, airportn11, airport_novo, 180, 0
+10970, airportn12, airport_novo, 180, 0
+10971, airportn13, airport_novo, 180, 0
+10972, airportn14, airport_novo, 180, 0
+10973, airportn15, airport_novo, 180, 0
+10974, airportn16, airport_novo, 180, 0
+10975, airportn17, airport_novo, 180, 0
+10976, airportn18, airport_novo, 180, 0
+
+10977, lodportn01, airport_novo_lod, 500, 0
+10978, lodportn02, airport_novo_lod, 500, 0
+10979, lodportn03, airport_novo_lod, 500, 0
+10980, lodportn04, airport_novo_lod, 500, 0
+10981, lodportn05, airport_novo_lod, 500, 0
+10982, lodportn06, airport_novo_lod, 500, 0
+10983, lodportn07, airport_novo_lod, 500, 0
+10984, lodportn08, airport_novo_lod, 500, 0
+10985, lodportn09, airport_novo_lod, 500, 0
+10986, lodportn10, airport_novo_lod, 500, 0
+10987, lodportn11, airport_novo_lod, 500, 0
+10988, lodportn12, airport_novo_lod, 500, 0
+10989, lodportn13, airport_novo_lod, 500, 0
+10990, lodportn14, airport_novo_lod, 500, 0
+10991, lodportn15, airport_novo_lod, 500, 0
+10992, lodportn16, airport_novo_lod, 500, 0
+10993, lodportn17, airport_novo_lod, 500, 0
+10994, lodportn18, airport_novo_lod, 500, 0
+
+10995, lod_av13, dalnob_lod, 500, 0
+10996, lod_av14, dalnob_lod, 500, 0
+10997, lad_av13, dalnob, 150, 0
+10998, lad_av14, dalnob, 150, 0
+
+
+
+
+end
+tobj
+end
+2dfx
+end
+
+

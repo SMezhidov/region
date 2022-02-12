@@ -1,0 +1,357 @@
+#Item Definition File created by MapEditor
+objs
+12596, buildga01, buildsg_1, 200, 0
+12597, buildga02, buildsg_1, 200, 0
+12598, buildga03, buildsg_1, 200, 0
+12599, buildga04, buildsg_1, 200, 0
+12600, buildga05, buildsg_1, 200, 0
+12601, buildga06, buildsg_1, 200, 0
+12602, buildga07, buildsg_1, 200, 0
+12603, buildga08, buildsg_1, 200, 0
+12604, lodldga01, buildsg_1_lod, 500, 0
+12605, lodldga02, buildsg_1_lod, 500, 0
+12606, lodldga03, buildsg_1_lod, 500, 0
+12607, lodldga04, buildsg_1_lod, 500, 0
+12608, lodldga05, buildsg_1_lod, 500, 0
+12609, lodldga06, buildsg_1_lod, 500, 0
+12610, lodldga07, buildsg_1_lod, 500, 0
+12611, lodldga08, buildsg_1_lod, 500, 0
+
+12612, buildgb01, buildsg_2a, 200, 0
+12613, buildgb02, buildsg_2b, 200, 0
+12614, buildgb03, buildsg_2a, 200, 0
+12615, buildgb04, buildsg_2a, 200, 0
+12616, buildgb05, buildsg_2a, 200, 0
+12617, buildgb06, buildsg_2a, 200, 0
+12618, buildgb07, buildsg_2b, 200, 0
+12619, buildgb08, buildsg_2b, 200, 0
+12620, buildgb09, buildsg_2b, 200, 0
+12621, buildgb10, buildsg_2b, 200, 0
+12622, lodldgb01, buildsg_2a_lod, 500, 0
+12623, lodldgb02, buildsg_2b_lod, 500, 0
+12624, lodldgb03, buildsg_2a_lod, 500, 0
+12625, lodldgb04, buildsg_2a_lod, 500, 0
+12626, lodldgb05, buildsg_2a_lod, 500, 0
+12627, lodldgb06, buildsg_2a_lod, 500, 0
+12628, lodldgb07, buildsg_2b_lod, 500, 0
+12629, lodldgb08, buildsg_2b_lod, 500, 0
+12630, lodldgb09, buildsg_2b_lod, 500, 0
+12631, lodldgb10, buildsg_2b_lod, 500, 0
+
+12632, buildgc01, buildsg_3, 200, 0
+12633, buildgc02, buildsg_3, 200, 0
+12634, buildgc03, buildsg_3, 200, 0
+12635, buildgc04, buildsg_3, 299, 0
+12636, buildgc05, buildsg_3, 200, 0
+12637, buildgc06, buildsg_3, 200, 0
+12638, buildgc07, buildsg_3, 200, 0
+12639, buildgc08, buildsg_3, 200, 0
+12640, buildgc09, buildsg_3, 200, 0
+12641, lodldgc01, buildsg_3_lod, 500, 0
+12642, lodldgc02, buildsg_3_lod, 500, 0
+12643, lodldgc03, buildsg_3_lod, 500, 0
+12644, lodldgc04, buildsg_3_lod, 500, 0
+12645, lodldgc05, buildsg_3_lod, 500, 0
+12646, lodldgc06, buildsg_3_lod, 500, 0
+12647, lodldgc07, buildsg_3_lod, 500, 0
+12648, lodldgc08, buildsg_3_lod, 500, 0
+12649, lodldgc09, buildsg_3_lod, 500, 0
+
+12650, buildgd01, buildsg_4, 200, 0
+12651, buildgd02, buildsg_4, 200, 0
+12652, buildgd03, buildsg_4, 200, 0
+12653, buildgd04, buildsg_4, 200, 0
+12654, buildgd05, buildsg_4, 200, 0
+12655, buildgd06, buildsg_4, 200, 0
+12656, buildgd07, buildsg_4, 200, 0
+12657, buildgd08, buildsg_4, 200, 0
+12658, buildgd09, buildsg_4, 200, 0
+12659, buildgd10, buildsg_4, 200, 0
+12660, lodldgd01, buildsg_4_lod, 500, 0
+12661, lodldgd02, buildsg_4_lod, 500, 0
+12662, lodldgd03, buildsg_4_lod, 500, 0
+12663, lodldgd04, buildsg_4_lod, 500, 0
+12664, lodldgd05, buildsg_4_lod, 500, 0
+12665, lodldgd06, buildsg_4_lod, 500, 0
+12666, lodldgd07, buildsg_4_lod, 500, 0
+12667, lodldgd08, buildsg_4_lod, 500, 0
+12668, lodldgd09, buildsg_4_lod, 500, 0
+12669, lodldgd10, buildsg_4_lod, 500, 0
+
+12670, buildge01, buildsg_5, 200, 0
+12671, buildge02, buildsg_5, 200, 0
+12672, buildge03, buildsg_5, 200, 0
+12673, buildge04, buildsg_5, 200, 128
+12674, buildge05, buildsg_5, 200, 0
+12675, buildge06, buildsg_5, 200, 2138244
+12676, buildge07, buildsg_5, 200, 2138244
+12677, buildge08, buildsg_5, 200, 0
+12678, buildge09, buildsg_5, 200, 0
+12679, lodldge01, buildsg_5_lod, 500, 0
+12680, lodldge02, buildsg_5_lod, 500, 0
+12681, lodldge03, buildsg_5_lod, 500, 0
+12682, lodldge04, buildsg_5_lod, 500, 0
+12683, lodldge05, buildsg_5_lod, 500, 0
+12684, lodldge06, buildsg_5_lod, 500, 0
+12685, lodldge07, buildsg_5_lod, 500, 0
+12686, lodldge08, buildsg_5_lod, 500, 0
+12687, lodldge09, buildsg_5_lod, 500, 0
+
+
+12688, buildgf01, builds_6c, 200, 0
+12689, buildgf02, builds_6d, 200, 0
+12690, buildgf03, builds_6a, 200, 0
+12691, buildgf04, builds_6b, 200, 0
+12692, buildgf05, builds_6d, 200, 0
+12693, buildgf06, builds_6d, 200, 0
+12694, buildgf07, builds_6d, 200, 0
+12695, buildgf08, builds_6d, 200, 0
+12696, buildgf09, builds_6d, 200, 0
+12697, buildgf10, builds_6d, 200, 0
+12698, buildgf11, builds_6d, 200, 0
+12699, buildgf12, builds_6d, 200, 0
+12700, lodldgf01, builds_6c_lod, 500, 0
+12701, lodldgf02, builds_6d_lod, 500, 0
+12702, lodldgf03, builds_6a_lod, 500, 0
+12703, lodldgf04, builds_6b_lod, 500, 0
+12704, lodldgf05, builds_6d_lod, 500, 0
+12705, lodldgf06, builds_6d_lod, 500, 0
+12706, lodldgf07, builds_6d_lod, 500, 0
+12707, lodldgf08, builds_6d_lod, 500, 0
+12708, lodldgf09, builds_6d_lod, 500, 0
+12709, lodldgf10, builds_6d_lod, 500, 0
+12710, lodldgf11, builds_6d_lod, 500, 0
+12711, lodldgf12, builds_6d_lod, 500, 0
+
+
+12712, buildgg01, buildsg_7a, 200, 2097284
+12713, buildgg02, buildsg_7b, 200, 0
+12714, buildgg03, buildsg_7b, 200, 0
+12715, buildgg04, buildsg_7a, 200, 0
+12716, buildgg05, buildsg_7a, 200, 0
+12717, buildgg06, buildsg_7a, 200, 0
+12718, buildgg07, buildsg_7a, 200, 0
+12719, buildgg08, buildsg_7a, 200, 0
+12720, buildgg09, buildsg_7a, 200, 0
+12721, buildgg10, buildsg_7c, 200, 0
+12722, buildgg11, buildsg_7c, 200, 0
+12723, buildgg12, buildsg_7c, 200, 0
+12724, buildgg13, buildsg_7c, 200, 0
+12725, buildgg14, buildsg_7b, 200, 0
+12726, buildgg15, buildsg_7b, 200, 0
+12727, buildgg16, buildsg_7c, 200, 0
+12728, buildgg17, buildsg_7c, 200, 0
+12729, buildgg18, buildsg_7b, 200, 0
+12730, buildgg19, buildsg_7a, 200, 0
+12731, buildgg20, buildsg_7c, 200, 0
+12732, buildgg21, buildsg_7c, 200, 0
+12733, lodldgg01, buildsg_7a_lod, 500, 0
+12734, lodldgg02, buildsg_7b_lod, 500, 0
+12735, lodldgg03, buildsg_7b_lod, 500, 0
+12736, lodldgg04, buildsg_7a_lod, 500, 0
+12737, lodldgg05, buildsg_7a_lod, 500, 0
+12738, lodldgg06, buildsg_7a_lod, 500, 0
+12739, lodldgg07, buildsg_7a_lod, 500, 0
+12740, lodldgg08, buildsg_7a_lod, 500, 0
+12741, lodldgg09, buildsg_7a_lod, 500, 0
+12742, lodldgg10, buildsg_7c_lod, 500, 0
+12743, lodldgg11, buildsg_7c_lod, 500, 0
+12744, lodldgg12, buildsg_7c_lod, 500, 0
+12745, lodldgg13, buildsg_7c_lod, 500, 0
+12746, lodldgg14, buildsg_7b_lod, 500, 0
+12747, lodldgg15, buildsg_7b_lod, 500, 0
+12748, lodldgg16, buildsg_7c_lod, 500, 0
+12749, lodldgg17, buildsg_7c_lod, 500, 0
+12750, lodldgg18, buildsg_7b_lod, 500, 0
+12751, lodldgg19, buildsg_7a_lod, 500, 0
+12752, lodldgg20, buildsg_7c_lod, 500, 0
+12753, lodldgg21, buildsg_7c_lod, 500, 0
+
+12754, buildgh01, builds_g8, 200, 0
+12755, buildgh02, builds_g8, 200, 0
+12756, buildgh03, builds_g8, 200, 0
+12757, buildgh04, builds_g8, 200, 0
+12758, buildgh05, builds_g8, 200, 0
+12759, buildgh06, builds_g8, 200, 0
+12760, buildgh07, builds_g8, 200, 0
+12761, buildgh08, builds_g8, 200, 0
+12762, buildgh09, builds_g8, 200, 0
+12763, buildgh10, builds_g8, 200, 0
+12764, buildgh11, builds_g8, 200, 0
+12765, buildgh12, builds_g8, 200, 0
+12766, buildgh13, builds_g8, 200, 0
+12767, buildgh14, builds_g8, 200, 0
+12768, buildgh15, builds_g8, 200, 0
+12769, buildgh16, builds_g8, 200, 0
+12770, buildgh17, builds_g8, 200, 0
+12771, buildgh18, builds_g8, 200, 0
+12772, buildgh19, builds_g8, 200, 0
+12773, lodldgh01, builds_g8_lod, 500, 0
+12774, lodldgh02, builds_g8_lod, 500, 0
+12775, lodldgh03, builds_g8_lod, 500, 0
+12776, lodldgh04, builds_g8_lod, 500, 0
+12777, lodldgh05, builds_g8_lod, 500, 0
+12778, lodldgh06, builds_g8_lod, 500, 0
+12779, lodldgh07, builds_g8_lod, 500, 0
+12780, lodldgh08, builds_g8_lod, 500, 0
+12781, lodldgh09, builds_g8_lod, 500, 0
+12782, lodldgh10, builds_g8_lod, 500, 0
+12783, lodldgh11, builds_g8_lod, 500, 0
+12784, lodldgh12, builds_g8_lod, 500, 0
+12785, lodldgh13, builds_g8_lod, 500, 0
+12786, lodldgh14, builds_g8_lod, 500, 0
+12787, lodldgh15, builds_g8_lod, 500, 0
+12788, lodldgh16, builds_g8_lod, 500, 0
+12789, lodldgh17, builds_g8_lod, 500, 0
+12790, lodldgh18, builds_g8_lod, 500, 0
+12791, lodldgh19, builds_g8_lod, 500, 0
+
+12792, buildgf13, builds_6a, 250, 2097284
+12793, buildgf14, builds_6a, 250, 2097284
+
+12794, lodldgf13, builds_6a_lod, 500, 0
+12795, lodldgf14, builds_6a_lod, 500, 0
+
+12796, buildgi01, builds_gi, 200, 0
+12797, buildgi02, builds_gi, 200, 0
+12798, buildgi03, builds_gi, 200, 0
+12799, buildgi04, builds_gi, 200, 0
+12800, buildgi05, builds_gi, 200, 0
+12801, buildgi06, builds_gi, 200, 0
+12802, buildgi07, builds_gi, 200, 0
+12803, buildgi08, builds_gi, 200, 0
+12804, buildgi09, builds_gi, 200, 0
+12805, buildgi10, builds_gi, 200, 0
+12806, buildgi11, builds_gi, 200, 0
+12807, buildgi12, builds_gi, 200, 0
+12808, buildgi13, builds_gi, 200, 0
+12809, lodldgi01, builds_gi_lod, 500, 0
+12810, lodldgi02, builds_gi_lod, 500, 0
+12811, lodldgi03, builds_gi_lod, 500, 0
+12812, lodldgi04, builds_gi_lod, 500, 0
+12813, lodldgi05, builds_gi_lod, 500, 0
+12814, lodldgi06, builds_gi_lod, 500, 0
+12815, lodldgi07, builds_gi_lod, 500, 0
+12816, lodldgi08, builds_gi_lod, 500, 0
+12817, lodldgi09, builds_gi_lod, 500, 0
+12818, lodldgi10, builds_gi_lod, 500, 0
+12819, lodldgi11, builds_gi_lod, 500, 0
+12820, lodldgi12, builds_gi_lod, 500, 0
+12821, lodldgi13, builds_gi_lod, 500, 0
+
+12822, buildgk01, builds_gk, 200, 0
+12823, buildgk02, builds_gk, 200, 0
+12824, buildgk03, builds_gk, 200, 0
+12825, buildgk04, builds_gk, 200, 0
+12826, buildgk05, builds_gk, 200, 0
+12827, buildgk06, builds_gk, 200, 0
+12828, buildgk07, builds_gk, 200, 0
+12829, buildgk08, builds_gk, 200, 0
+12830, buildgk09, builds_gk, 200, 0
+12831, buildgk10, builds_gk, 200, 0
+12832, lodldgk01, builds_gk_lod, 500, 0
+12833, lodldgk02, builds_gk_lod, 500, 0
+12834, lodldgk03, builds_gk_lod, 500, 0
+12835, lodldgk04, builds_gk_lod, 500, 0
+12836, lodldgk05, builds_gk_lod, 500, 0
+12837, lodldgk06, builds_gk_lod, 500, 0
+12838, lodldgk07, builds_gk_lod, 500, 0
+12839, lodldgk08, builds_gk_lod, 500, 0
+12840, lodldgk09, builds_gk_lod, 500, 0
+12841, lodldgk10, builds_gk_lod, 500, 0
+
+12842, buildgm01, builds_gm, 200, 0
+12843, buildgm02, builds_gm, 200, 0
+12844, buildgm03, builds_gm, 200, 0
+12845, buildgm04, builds_gm, 200, 0
+12846, buildgm05, builds_gm, 200, 0
+12847, buildgm06, builds_gm, 200, 0
+12848, lodldgm01, builds_gm_lod, 500, 0
+12849, lodldgm02, builds_gm_lod, 500, 0
+12850, lodldgm03, builds_gm_lod, 500, 0
+12851, lodldgm04, builds_gm_lod, 500, 0
+12852, lodldgm05, builds_gm_lod, 500, 0
+12853, lodldgm06, builds_gm_lod, 500, 0
+
+12854, buildgo01, builds_go, 200, 0
+12855, buildgo02, builds_go, 200, 0
+12856, buildgo03, builds_go, 200, 0
+12857, buildgo04, builds_go, 200, 0
+12858, buildgo05, builds_go, 200, 0
+12859, buildgo06, builds_go, 200, 0
+12860, buildgo07, builds_go, 200, 0
+12861, lodldgo01, builds_go_lod, 500, 0
+12862, lodldgo02, builds_go_lod, 500, 0
+12863, lodldgo03, builds_go_lod, 500, 0
+12864, lodldgo04, builds_go_lod, 500, 0
+12865, lodldgo05, builds_go_lod, 500, 0
+12866, lodldgo06, builds_go_lod, 500, 0
+12867, lodldgo07, builds_go_lod, 500, 0
+
+12872, buildgp01, builds_gp1, 250, 0
+12873, buildgp02, builds_gp1, 250, 0
+12874, buildgp03, builds_gp1, 250, 0
+12875, buildgp04, builds_gp2, 250, 0
+12876, buildgp05, builds_gp1, 250, 0
+12877, buildgp06, builds_gp1, 250, 0
+12878, buildgp07, builds_gp1, 250, 0
+12879, buildgp08, builds_gp2, 250, 0
+12880, buildgp09, builds_gp2, 250, 0
+12881, buildgp10, builds_gp2, 250, 0
+12882, buildgp11, builds_gp1, 250, 0
+12883, buildgp12, builds_gp1, 250, 0
+12884, buildgp13, builds_gp1, 250, 0
+12885, buildgp14, builds_gp1, 250, 0
+
+12886, lodldgp01, builds_gp_lod, 500, 0
+12887, lodldgp02, builds_gp_lod, 500, 0
+12888, lodldgp03, builds_gp_lod, 500, 0
+12889, lodldgp04, builds_gp_lod, 500, 0
+12890, lodldgp05, builds_gp_lod, 500, 0
+12891, lodldgp06, builds_gp_lod, 500, 0
+12892, lodldgp07, builds_gp_lod, 500, 0
+12893, lodldgp08, builds_gp_lod, 500, 0
+12894, lodldgp09, builds_gp_lod, 500, 0
+12895, lodldgp10, builds_gp_lod, 500, 0
+12896, lodldgp11, builds_gp_lod, 500, 0
+12897, lodldgp12, builds_gp_lod, 500, 0
+12898, lodldgp13, builds_gp_lod, 500, 0
+12899, lodldgp14, builds_gp_lod, 500, 0
+
+12900, buildgp15, d_teatr, 250, 0
+12901, buildgp16, d_teatr, 250, 0
+12902, lodldgp15, d_teatr_lod, 500, 0
+12903, lodldgp16, d_teatr_lod, 500, 0
+
+
+
+12904, parkk01, parkk, 250, 0
+12905, parkk02, parkk, 250, 0
+12906, parkk03, parkk, 250, 0
+12907, parkk04, parkk, 250, 0
+12908, parkk05, parkk, 250, 0
+12909, lodkk01, parkk_lod, 500, 0
+12910, lodkk02, parkk_lod, 500, 0
+12911, lodkk03, parkk_lod, 500, 0
+12912, lodkk04, parkk_lod, 500, 0
+12913, lodkk05, parkk_lod, 500, 0
+
+14437, klanho1, klanho, 200, 0
+14438, klanho2, klanho, 200, 0
+14439, klanho3, klanho, 200, 0
+14440, lodnho1, klanho_lod, 600, 0
+14441, lodnho2, klanho_lod, 600, 0
+14442, lodnho3, klanho_lod, 600, 0
+
+
+
+
+end
+tobj
+end
+2dfx
+end
+
+
+
+

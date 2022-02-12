@@ -1,0 +1,53 @@
+objs
+6343, lod_nr_pt43, nr_land_lod, 600, 0
+6344, lod_nr_pt17, nr_land_lod, 600, 0
+6345, lod_nr_pt18, nr_land_lod, 600, 0
+6346, lod_nr_pt20, nr_land_lod, 600, 0
+6347, lodpt19, nr_land_lod, 600, 0
+6348, lodpt33, nr_land_lod, 600, 0
+6349, lod_nr_pt13, nr_land_lod, 600, 0
+6350, lod_nr_pt32, nr_land_lod, 600, 0
+6351, lod_nr_pt34, nr_land_lod, 600, 0
+6352, lod_nr_pt14, nr_land_lod, 600, 0
+6353, lod_nr_pt12, nr_land_lod, 600, 0
+6354, lod_nr_pt11, nr_land_lod, 600, 0
+6355, lod_nr_pt21, nr_land_lod, 600, 0
+6356, lod_nr_pt16, nr_land_lod, 600, 0
+6357, lod_nr_pt15, nr_land_lod, 600, 0
+6358, lod_nr_pt9, nr_land_lod, 600, 0
+6359, lod_nr_pt8, nr_land_lod, 600, 0
+6360, lod_nr_pt7, nr_land_lod, 600, 0
+6361, lod_nr_pt10, nr_land_lod, 600, 0
+6362, lod_nr_pt6, nr_land_lod, 600, 0
+6363, lod_nr_pt4, nr_land_lod, 600, 0
+6364, lod_nr_pt5, nr_land_lod, 600, 0
+6365, lod_nr_pt1, nr_land_lod, 600, 0
+6366, lod_nr_pt2, nr_land_lod, 600, 0
+6367, lod_nr_pt3, nr_land_lod, 600, 0
+6368, lod_nr_pt19_1, nr_land_lod, 600, 0
+6369, lod_nr_pt14_1, nr_land_lod, 600, 0
+6370, lod_nr_pt21_1, lenta_lod, 600, 0
+6371, lod_nab_pt1, nab_lod, 600, 0
+6372, lod_nab_pt3, nab_lod, 600, 0
+6373, lod_nab_pt2, nab_lod, 600, 0
+6374, lod_pt_147, nr_land_lod, 600, 0
+6375, lod_Yajegovoril4, nr_land_lod, 600, 0
+6376, lod_Yajegovoril3, nr_land_lod, 600, 0
+6377, lod_Yajegovoril2, nr_land_lod, 600, 0
+6378, lod_Yajegovoril1, nr_land_lod, 600, 0
+6379, lod_pt34_stuff, nr_land_lod, 600, 0
+
+19820, lodtuncentr, lod_nr_tuncentr, 500, 0
+19821, lodsh_101, lod_nr_sh_101, 500, 0
+19822, lodsh_439_2, lod_nr_sh_439, 500, 0
+19824, lodpital,  lod_hopital, 500, 0
+19825, lodwast_99, lod_nr_tuncentr, 500, 0
+19826, lodkzal17, lod_nr_sh_439, 500, 0
+19827, lodkzal16, lod_nr_sh_439, 500, 0
+
+
+end
+tobj
+end
+2dfx
+end
